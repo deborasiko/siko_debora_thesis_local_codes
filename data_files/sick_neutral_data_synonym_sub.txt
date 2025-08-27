@@ -1,0 +1,35 @@
+pair_ID,sentence_A,sentence_B,relatedness_score,entailment_judgment
+1,A group of kids is playing in a yard and an old man is standing in the background,A group of boys in a yard is playing and a person is standing in the background,4.5,NEUTRAL
+2,A group of children is playing in the house and there is no man standing in the background,A group of kids is playing in a yard and an old man is standing in the background,3.2,NEUTRAL
+5,The kids are playing outdoors near a man with a smile,A group of children is playing in a yard and an old man is standing in the background,3.4,NEUTRAL
+9,The young boys are playing outdoors and the man is smiling nearby,A group of children is playing in a yard and an old man is standing in the background,3.7,NEUTRAL
+12,Two dogs are fighting,Two bulldogs are wrestling and hugging,4.0,NEUTRAL
+14,A brown dog is attacking another animal in front of the man in pants,Two bulldogs are fighting,3.5,NEUTRAL
+18,A brown dog is attacking another animal in front of the man in pants,Two golden retrievers are wrestling and hugging,3.2,NEUTRAL
+25,Nobody is riding the bicycle on one wheel,A man in a black jacket is doing tricks on a motorbike,2.8,NEUTRAL
+26,A person is riding the bicycle on one wheel,A woman in a black jacket is doing tricks on a motorbike,3.7,NEUTRAL
+28,A person on a black motorbike is doing tricks with a jacket,A man is riding the bicycle on one wheel,3.4,NEUTRAL
+35,A man with a jersey is dunking the ball at a basketball game,A man who is playing dunks the basketball into the net and a crowd is in background,3.6,NEUTRAL
+40,The player is dunking the basketball into the net and a crowd is in background,A person with a jersey is dunking the ball at a basketball game,3.8,NEUTRAL
+45,Two young women are not sparring in a kickboxing fight,Two women are sparring in a kickboxing fight,3.9,NEUTRAL
+47,Two people are kickboxing and spectators are watching,Two young women are not sparring in a kickboxing fight,3.415,NEUTRAL
+49,Two women are sparring in a kickboxing match,Two people are kickboxing and the audience is not watching,3.7,NEUTRAL
+56,Three kids are sitting in the leaves,Three children are jumping in the leaves,3.8,NEUTRAL
+58,Children in red shirts are playing in the leaves,Three kids are standing in the leaves,3.5,NEUTRAL
+62,Children in red shirts are playing in the leaves,Three kids are running in the leaves,4.0,NEUTRAL
+65,Two angels are making snow on the lying children,Two children are lying in the snow and are making snow angels,2.9,NEUTRAL
+70,Two children are lying in the snow and are drawing angels,Two kids in snowsuits are lying in the snow and making snow angels,4.1,NEUTRAL
+72,Two kids in snowsuits are lying in the snow and making snow angels,Two angels are making snow on the lying children,2.5,NEUTRAL
+73,Two children are lying in the snow and are making snow angels,Two people in snowsuits are lying in the snow and making snow angels,4.2,NEUTRAL
+78,People wearing costumes are gathering in a forest and are looking in the same direction,People wearing uniforms are scattering in a forest and are looking in different directions,3.2,NEUTRAL
+79,People are looking at some costumes gathered in the vicinity of the forest,People wearing uniforms are gathering in a forest and are looking in the same direction,3.635,NEUTRAL
+81,A little girl is looking at a woman in costume,Women wearing costumes are scattering in a forest and are looking in different directions,2.4,NEUTRAL
+82,A little girl is looking at a woman in costume,Women are looking at some costumes gathered in the vicinity of the forest,2.6,NEUTRAL
+83,A young girl is looking at a woman in costume,People wearing uniforms are gathering in a forest and are looking in the same direction,2.2,NEUTRAL
+84,People wearing costumes are gathering in a forest and are looking in the same direction,The little girl is looking at a man in uniform,3.0,NEUTRAL
+85,People wearing costumes are gathering in a forest and are looking in the same direction,A little girl in uniform looks like a woman,2.0,NEUTRAL
+91,A man is jumping into an empty pool,The man's jumper is in the empty basin,3.1,NEUTRAL
+93,A lone biker is jumping in the air,A person is jumping into a full pool,1.7,NEUTRAL
+94,The person's jumper is in the empty pool,A lone biker is jumping in the air,1.4,NEUTRAL
+97,A lone biker is jumping in the air,A man is jumping into an empty pond,1.5,NEUTRAL
+99,Four children are doing backbends in the gym,Four children are doing backbends in the forest,3.8,NEUTRAL

@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+myenv/
+myvenv1/
+.env/
+.idea/
+
+llama.cpp/
+dataset_augmentation_codes/glove/
+
+dataset_augmentation_codes/glove.6B.300d.txt
+
+merged_model/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/

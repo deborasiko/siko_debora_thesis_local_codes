@@ -1,0 +1,1300 @@
+pair_ID,sentence_A,sentence_B,relatedness_score,entailment_judgment
+3,The young boys are playing outdoors and the man is smiling nearby,The kids are playing outdoors near a man with a smile,4.7,ENTAILMENT
+30,A man with a jersey is dunking the ball at a basketball game,The ball is being dunked by a man with a jersey at a basketball game,4.9,ENTAILMENT
+44,Two young women are sparring in a kickboxing fight,Two women are sparring in a kickboxing match,4.9,ENTAILMENT
+55,Three boys are jumping in the leaves,Three kids are jumping in the leaves,4.4,ENTAILMENT
+77,People wearing costumes are gathering in a forest and are looking in the same direction,Masked people are looking in the same direction in a forest,4.4,ENTAILMENT
+87,A lone biker is jumping in the air,"A biker is jumping in the air, alone",5.0,ENTAILMENT
+98,Four kids are doing backbends in the park,Four children are doing backbends in the park,4.8,ENTAILMENT
+100,Four girls are doing backbends and playing in the garden,Four girls are doing backbends and playing outdoors,4.1,ENTAILMENT
+107,A man who is playing is running with the ball in his hands,A player is running with the ball,4.3,ENTAILMENT
+129,An old man is sitting in a field,A man is sitting in a field,4.4,ENTAILMENT
+140,The current is being ridden by a group of friends in a raft,A group of friends are riding the current in a raft,4.9,ENTAILMENT
+164,People are walking outside the building that has several murals on it,Several people are in front of a colorful building,3.6,ENTAILMENT
+200,A motorcyclist is riding a motorbike dangerously along a roadway,A motorcyclist is riding a motorbike along a roadway,4.6,ENTAILMENT
+202,A man with a helmet painted red is riding a blue motorcycle down the road,A motorcyclist with a red helmet is riding a blue motorcycle down the road,4.8,ENTAILMENT
+240,A woman is wearing an Egyptian hat on her head,A woman is wearing an Egyptian headdress,4.3,ENTAILMENT
+265,The brown horse is very near a red barrel at the rodeo,The brown horse is near a red barrel at the rodeo,4.8,ENTAILMENT
+273,A boy is standing in the cold water,A boy is standing in the water,4.1,ENTAILMENT
+293,Two young girls are sitting on the ground,Two girls are sitting on the ground,4.4,ENTAILMENT
+303,"A young, topless woman is covered in paint",A topless girl is covered in paint,4.4,ENTAILMENT
+305,A nude lady is walking in front of a crowd in body paint,A topless girl is covered in paint,3.8,ENTAILMENT
+311,A group of people is near the ocean,A crowd of people is near the water,4.3,ENTAILMENT
+313,A group of children in uniforms is standing at a gate and one is kissing the mother,A group of children wearing the same clothes is waiting at a gate and one is kissing the mother,4.5,ENTAILMENT
+331,A group of people is on a beach,A group of people is near the sea,4.0,ENTAILMENT
+333,"A man, a woman and two girls are walking on the beach",Four people are walking on the beach,4.5,ENTAILMENT
+339,"A man, a woman and two girls are walking on the beach",A group of people is on a beach,4.3,ENTAILMENT
+340,A schoolgirl with a black bag is on a crowded train,A girl with a black bag is on a crowded train,4.7,ENTAILMENT
+351,A dog is chasing another and is holding a stick in its mouth,A dog is chasing another and is holding a piece of wood in its mouth,4.6,ENTAILMENT
+354,Two dogs are running and carrying a toy in their mouths,Two dogs are running and carrying an object in their mouths,4.3,ENTAILMENT
+361,A dog is chasing another and is holding a stick in its mouth,Two dogs are running and carrying an object in their mouths,4.0,ENTAILMENT
+362,A dirty soccer ball is rolling into a goal net,A soccer ball is rolling into a goal net,4.5,ENTAILMENT
+373,A man with tattoos is lounging on a couch and holding a pencil,A tattooed man is on a sofa and is holding a pencil,4.4,ENTAILMENT
+390,A white and tan dog is running through the tall and green grass,A brown and white dog is running through the tall grass,4.6,ENTAILMENT
+391,A man with paint covered clothes is sitting outside in a busy area writing something,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,4.8,ENTAILMENT
+404,Some people are walking,People are walking,4.7,ENTAILMENT
+410,A group of scouts are hiking through the grass,Some people are walking,3.2,ENTAILMENT
+422,Two men are holding fishing poles and fishing tackle,Two men are holding fishing poles,4.3,ENTAILMENT
+442,A blonds girl is surfing,A blond girl is riding the waves,4.7,ENTAILMENT
+465,A man is performing stunts on a green bicycle,A man is performing a trick on a green bicycle,4.7,ENTAILMENT
+473,A boy is holding a squirt gun,A child is holding a squirt gun,4.5,ENTAILMENT
+477,A child with a gun that sprays water is laughing and getting hit by other boys,A child is holding a squirt gun,3.9,ENTAILMENT
+491,The black and white dog is running and a person stands behind it,"The dog, which is black and white, is running and a person stands behind it",4.9,ENTAILMENT
+494,A little dog is sprinting and the person who owns it is trying to catch it,A little dog is sprinting and its owner is trying to catch it,4.8,ENTAILMENT
+505,A man wearing a dyed black shirt is sitting at the table and laughing,A black shirt is being worn by a man who is sitting at the table and laughing,4.7,ENTAILMENT
+515,A woman who is wearing a pink boa is riding a bicycle down a bridge built for pedestrians,A woman who is wearing a pink scarf is riding a bike down a bridge built for pedestrians,4.3,ENTAILMENT
+528,"A person, who is riding a bike, is wearing gear which is black",A biker is wearing gear which is black,4.7,ENTAILMENT
+531,A black helmet is being worn by a man who is pushing a bicycle,One man is wearing a black helmet and pushing a bicycle,4.8,ENTAILMENT
+541,The man in a grey t-shirt is sitting on a rock in front of the waterfall,The man in a t-shirt dyed grey is sitting on a rock in front of a waterfall,4.9,ENTAILMENT
+557,A dark black dog and a light brown dog are playing in the yard in the back,A dark black dog and a light brown dog are playing in the backyard,4.9,ENTAILMENT
+570,A white and brown dog is walking through the water with difficulty,A white and brown dog is pacing through the water with difficulty,4.5,ENTAILMENT
+587,A bunch of boys are playing with a ball in front of a large door made of wood,The children are playing in front of a large door,3.4,ENTAILMENT
+603,"A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling","A lady of young age, with light brown hair, is wearing a red necklace, a sweatshirt and earrings and is smiling",5.0,ENTAILMENT
+626,A dad is launching his daughter into a swimming pool,A father is launching the daughter in a swimming pool,4.8,ENTAILMENT
+629,The man is tossing a kid into the swimming pool that is near the ocean,One man is tossing a kid into the swimming pool that is near the ocean,4.8,ENTAILMENT
+645,"A rock is being climbed by a person with a rope, which is pink",One man is climbing a cliff with a rope,4.3,ENTAILMENT
+648,"A person is climbing a rock with a rope, which is pink",One man is climbing the cliff with a rope,4.1,ENTAILMENT
+655,A young child is climbing a rock climbing wall which is indoors,A young kid is climbing a rock climbing wall which is indoors,4.7,ENTAILMENT
+676,"A dog, which is black, and a white one are staring at each other in the street","A dog, which is black, and another one, which is white, are staring at each other in the street",4.9,ENTAILMENT
+679,Two dogs of different breeds are looking angrily at each other across a street,Two dogs of different breeds are looking at each other across a street,4.6,ENTAILMENT
+692,A dog which is furry and black is in a backyard and is carrying a basket in its mouth.,A dog which is furry and black is in a back yard and is carrying a basket in its mouth,5.0,ENTAILMENT
+702,Two persons of large size are sitting on a park bench and they have a bottle of soda between them,Two large persons are sitting on a park bench and they have a bottle of soda between them,4.7,ENTAILMENT
+704,Two large park benches have a person sitting and a bottle of soda between them,Two large persons are sitting on a park bench and they have a bottle of soda between them,3.7,ENTAILMENT
+729,The man with the dyed purple hat is operating a camera that makes videos,The man in the purple hat is operating a camera that makes videos,4.9,ENTAILMENT
+737,The bride and the groom are leaving after the marriage,The bride and the groom are leaving after the wedding,4.8,ENTAILMENT
+741,A married couple is walking up the aisle,A married couple is walking down the aisle,4.4,ENTAILMENT
+752,The presentation is being watched by a classroom of students,The presentation is being attended by a classroom of students,4.8,ENTAILMENT
+762,The kid is happily sliding in the snow,The kid is sliding in the snow,4.5,ENTAILMENT
+766,A boy on a hill covered in snow is wearing a red jacket and a black hat and is sliding on his knees,The kid is still in the snow,3.4,ENTAILMENT
+772,A woman and a dog are peacefully sitting on a tree stump,A woman and a dog are sitting on a tree stump,4.5,ENTAILMENT
+774,"A woman, who is old, is near a dog that has a white coat","A woman, who is old, is near a white dog",4.4,ENTAILMENT
+784,The dog is biting some droplets of water,The dog is snapping at some droplets of water,4.5,ENTAILMENT
+796,"Two people are in the snow, wearing clothes that provide camouflage","Some people are in the snow, wearing clothes that provide camouflage",4.4,ENTAILMENT
+830,The little kid is playing football and falling harmlessly into the grass,The little kid is playing football and falling into the grass,4.6,ENTAILMENT
+844,A woman with a ponytail is climbing down a wall of rock,A woman with a ponytail is climbing a wall of rock,4.085,ENTAILMENT
+858,One white dog and one black one are cheerfully running side by side on the grass,A black and a white dog are joyfully running on the grass,4.4,ENTAILMENT
+867,The ice skating rink placed outdoors is full of people,An ice skating rink placed outdoors is full of people,4.9,ENTAILMENT
+870,The ice skating rink placed outdoors is full of people,A lot of people are in an ice skating park,4.2,ENTAILMENT
+876,An ice skating rink placed outdoors is full of people,A lot of people are in an ice skating park,4.5,ENTAILMENT
+880,The girl in the blue and white uniform is cheering,Some cheers are being performed by the girl in the blue and white uniform,4.9,ENTAILMENT
+892,People are on a beach full of sand by the ocean and are enjoying a sunny day,People are on a beach full of sand by the ocean and are enjoying a day full of sun,4.8,ENTAILMENT
+898,People are on a beach full of sand by the ocean and are enjoying a sunny day,A bunch of people is on the shore,3.8,ENTAILMENT
+902,The man is doing a wheelie with a motorbike in a field which is mostly barren,The man is doing a wheelie with a motorcycle on ground which is mostly barren,4.4,ENTAILMENT
+950,Two young kids are eating corndogs,Two young children are eating corndogs,4.9,ENTAILMENT
+953,"Two toddlers are eating corndogs in a wagon, which is really small",Two young children are eating corndogs,4.5,ENTAILMENT
+956,"Some corndogs are being eaten by two toddlers who are in a wagon, which is really small",Two young kids are eating corndogs,4.3,ENTAILMENT
+959,"Two toddlers are eating corndogs in a wagon, which is really small",Two young kids are eating corndogs,4.3,ENTAILMENT
+960,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,A man in a shirt dyed purple is looking at a man in a black shirt who is doing a face which looks funny,5.0,ENTAILMENT
+961,"A man in a shirt dyed purple is walking away from a man in a black shirt, who is serious",A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face,3.4,ENTAILMENT
+963,A man in a pose is being amusedly watched by another man,A man doing a pose is being watched by another man,4.6,ENTAILMENT
+973,A horse is tossing the cowboy wearing pants of blue and red color,The cowboy in blue and red pants is being tossed by a horse,4.9,ENTAILMENT
+989,"The man and the boy are standing at the bottom of the stairs, which are outdoors","A man and a boy are standing at the bottom of some stairs, which are outdoors",5.0,ENTAILMENT
+1008,"The Jockeys are riding horses on the field, which is completely green","The Jockeys are racing horses on the field, which is completely green",4.7,ENTAILMENT
+1010,The green field for horse races is completely full of Jockeys,"The Jockeys are racing horses on the field, which is completely green",4.0,ENTAILMENT
+1021,A woman is wearing sunglasses of large size and is holding newspapers in both hands,The woman is wearing sunglasses of large size and is holding newspapers in both hands,5.0,ENTAILMENT
+1038,The snowboarder is leaping fearlessly over white snow,A person who is practicing snowboarding jumps into the air,3.9,ENTAILMENT
+1044,The snowboarder is leaping over white snow,A person who is practicing snowboarding jumps into the air,4.1,ENTAILMENT
+1045,"A dog is near a ball colored in red, which is in the air",A dog is near the red ball in the air,4.9,ENTAILMENT
+1048,"A dog, which is small, is playing tirelessly on the green grass","A dog, which is small, is playing on the green grass",4.7,ENTAILMENT
+1061,A man is riding a motorbike in the event related to motocross,A person is riding a motorbike in the event related to motocross,4.4,ENTAILMENT
+1082,A dog of large size is running on the grass with a tennis ball in its mouth,A large dog is running on the grass with a tennis ball in its mouth,4.7,ENTAILMENT
+1094,"A dog, which is large and gray, is carrying a ball in its mouth and running across the grass",A large dog is running on the grass with a tennis ball in its mouth,4.4,ENTAILMENT
+1095,A man is opening a small package that contains headphones,A man is opening a package that contains headphones,4.9,ENTAILMENT
+1109,A man is singing and playing the guitar,A man is singing a song and playing the guitar,4.9,ENTAILMENT
+1117,A dog is riding a skateboard in a park,A dog is riding a skateboard,4.3,ENTAILMENT
+1129,The turtle is following the red fish,The turtle is following the fish,4.6,ENTAILMENT
+1157,A woman is adding ingredients to a big bowl,A woman is adding ingredients to a bowl,4.6,ENTAILMENT
+1165,A woman is cracking some eggs into a bowl,A woman is adding ingredients to a bowl,4.1,ENTAILMENT
+1184,A man and a woman are hiking through a wooded area,A man and a woman are walking through a wooded area,4.5,ENTAILMENT
+1188,A man and a woman are walking together through wooded areas,A man and a woman are walking through a wooded area,4.5,ENTAILMENT
+1193,A man is making a speech on a podium,A man is speaking on a podium,4.8,ENTAILMENT
+1195,A man is speaking on a podium,A podium is where a man is speaking,4.8,ENTAILMENT
+1206,A woman is talking on a telephonic device,A woman is talking on a telephone,4.7,ENTAILMENT
+1242,A woman is removing the peel of a potato,A woman is peeling a potato,4.9,ENTAILMENT
+1251,A woman is amalgamating eggs,A woman is mixing eggs,4.5,ENTAILMENT
+1268,A band is performing on a stage,A band is playing onstage,4.9,ENTAILMENT
+1280,A man is walking in a yard,A man is walking outside,4.1,ENTAILMENT
+1287,A black cat is swinging on a fan,A cat is swinging on a fan,4.5,ENTAILMENT
+1292,A cat is playing on a moving ceiling fan,A cat is swinging on a fan,4.635,ENTAILMENT
+1311,A person is performing a card trick,A person is doing a trick with some cards,4.8,ENTAILMENT
+1318,A boy is spanking a man with a plastic sword,A boy is spanking a man with a toy weapon,4.5,ENTAILMENT
+1321,A boy is whacking a man with a sword,A man is being hit by a kid with a weapon,4.4,ENTAILMENT
+1335,The lady is measuring the ankle of another woman,A woman is being measured by another woman,4.4,ENTAILMENT
+1342,A man is talking on a cell phone,A man is making a call on a cell phone,4.8,ENTAILMENT
+1358,A machine is sharpening a pencil,A pencil is being sharpened,4.5,ENTAILMENT
+1373,A man is playing a keyboard in a park,A person is playing the keyboard,4.3,ENTAILMENT
+1376,A man is rinsing a large steak,A man is rinsing a large piece of meat,4.6,ENTAILMENT
+1378,A steak is being rinsed with water by a person,A person is rinsing a steak with water,5.0,ENTAILMENT
+1385,A person is chopping a red onion,A person is chopping an onion,4.6,ENTAILMENT
+1387,A person is riding an old motorcycle,A person is riding a motorcycle,4.4,ENTAILMENT
+1403,Butter is being chopped into a container by a man,A man is chopping butter into a container,5.0,ENTAILMENT
+1404,A man is chopping butter into a small container,A man is chopping butter into a container,4.8,ENTAILMENT
+1414,Some men are sawing,Men are sawing,4.8,ENTAILMENT
+1432,A man is playing a keyboard,A musician is playing a keyboard,4.2,ENTAILMENT
+1448,A man is spreading dough,Dough is being spread by a man,4.8,ENTAILMENT
+1466,Three men are jumping off a tall wall,Three men are jumping off a wall,4.9,ENTAILMENT
+1483,A deer is jumping over a cyclone fence,The deer is jumping over the fence,4.6,ENTAILMENT
+1484,The oil is being stirred by a man,The man is stirring oil,4.9,ENTAILMENT
+1499,A man is playing an electric guitar,A man is playing a guitar,4.5,ENTAILMENT
+1501,A man is playing a guitar,A man is playing guitar,4.9,ENTAILMENT
+1504,Three men are practicing karate in a field,Three men are practicing karate outdoors,4.5,ENTAILMENT
+1511,Some women are holding each other in a circle and dancing,A few women are holding each other and dancing together,3.9,ENTAILMENT
+1513,Two men are playing table tennis,Two men are playing ping pong,4.3,ENTAILMENT
+1531,A woman is cutting a white onion,A woman is cutting an onion,4.4,ENTAILMENT
+1547,Mimes are performing on a small stage,Mimes are performing on a stage,4.8,ENTAILMENT
+1549,The men are acting on a stage,The men are performing on stage,4.4,ENTAILMENT
+1558,A man is picking up a tree,A tree is being picked up by a man,4.9,ENTAILMENT
+1565,A man is passionately playing the guitar,A man is playing the guitar,4.6,ENTAILMENT
+1580,"A badger, which is shrewd, is digging the earth",A badger is shrewdly digging the earth,4.5,ENTAILMENT
+1582,"A badger, which is shrewd, is digging the earth",The badger is burrowing a hole,4.0,ENTAILMENT
+1586,A badger is shrewdly digging the earth,The badger is burrowing a hole,4.2,ENTAILMENT
+1587,Some liquid is being poured into a pan by a man,A man is pouring liquid into a pot,4.6,ENTAILMENT
+1604,The man is typing on a machine used for stenography,The man is operating a stenograph,4.8,ENTAILMENT
+1606,The man is operating a stenograph,A man is typing on a machine used for stenography,4.7,ENTAILMENT
+1607,A snake is being fed a mouse by a man,One man is feeding a mouse to the snake,4.7,ENTAILMENT
+1610,The man is carefully feeding a mouse to the snake,The man is cautiously feeding a mouse to the snake,4.8,ENTAILMENT
+1612,The man is carefully feeding a mouse to the snake,A snake is being fed a mouse by a man,4.8,ENTAILMENT
+1614,The man is cautiously feeding a mouse to the snake,One man is feeding a mouse to the snake,4.6,ENTAILMENT
+1618,A guy is cheerfully playing with the footbag,A guy is cheerfully playing with a footbag,4.9,ENTAILMENT
+1627,A man is mixing a few ingredients in a bowl,Some ingredients are being mixed in a bowl by a person,4.5,ENTAILMENT
+1640,The girl is recklessly jumping onto a car,The girl is recklessly jumping onto a vehicle,4.6,ENTAILMENT
+1643,One young lady is jumping on the car,One girl is jumping on the car,4.9,ENTAILMENT
+1646,The girl is recklessly jumping onto a car,One young lady is jumping on the car,4.4,ENTAILMENT
+1652,The girl is recklessly jumping onto a car,One girl is jumping on the car,4.4,ENTAILMENT
+1653,One woman is slowly peeling a potato,One woman is peeling a potato,4.7,ENTAILMENT
+1660,One woman is slowly peeling a potato,The potato is being peeled by a woman,4.5,ENTAILMENT
+1663,The potato is being peeled by a woman,One woman is peeling a potato,4.8,ENTAILMENT
+1669,The guitar is being played by the man,The man is a guitar player,4.8,ENTAILMENT
+1677,The man is pouring oil on a few tomatoes,One person pours oil on a few tomatoes,4.6,ENTAILMENT
+1680,Some oil is being poured on the tomatoes by the man,The man is pouring some oil on the tomatoes,4.8,ENTAILMENT
+1702,A kitten is drinking fresh milk,The milk is being drunk by a cat,4.2,ENTAILMENT
+1705,A frog is being held carelessly by a man,A man is carelessly holding a frog,4.8,ENTAILMENT
+1712,A man is slicing an onion,An onion is being sliced by a man,4.9,ENTAILMENT
+1715,An onion is being cut by a man,The onion is being cut by the man,4.9,ENTAILMENT
+1719,An onion is being sliced by a man,An onion is being cut by a man,4.8,ENTAILMENT
+1723,A man is recklessly riding a horse,A person is recklessly riding a horse,4.2,ENTAILMENT
+1736,Somebody is playing the piano,The piano is being played by someone,5.0,ENTAILMENT
+1753,One man is turning on the microwave,A man is pushing the buttons of a microwave,4.3,ENTAILMENT
+1757,One woman is practicing with a flute,One woman is playing a flute,4.485,ENTAILMENT
+1765,A boy is happily playing the piano,One boy is happily playing a piano,5.0,ENTAILMENT
+1771,A boy is happily playing the piano,A piano is being played by a person,4.3,ENTAILMENT
+1780,A cheetah is quickly running behind its prey.,The cheetah is running quickly behind its prey,4.6,ENTAILMENT
+1789,A lion is pacing tiredly in a pen,The lion is pacing tiredly in the pen,4.9,ENTAILMENT
+1792,A lion is slowly walking,A lion is slowly moving around,4.2,ENTAILMENT
+1798,The lion is pacing tiredly in the pen,A lion is slowly walking,4.4,ENTAILMENT
+1829,Some tofu is being sliced by one woman,Tofu is being sliced by a woman,4.9,ENTAILMENT
+1842,One man is sitting steadily on the chair,One man is sitting on the chair,4.4,ENTAILMENT
+1852,A man is spreading butter on a piece of bread which is big,"A piece of bread, which is big, is having butter spread upon it by a man OR A piece of bread, which is big, is being spread with butter by a man",4.7,ENTAILMENT
+1878,The kittens are eating the food on the trays,Some kittens are eating,4.7,ENTAILMENT
+1884,The food on the trays is being eaten by the kittens,Some kittens are eating,4.4,ENTAILMENT
+1888,A man is passionately playing a guitar,One man is passionately playing the guitar,4.9,ENTAILMENT
+1898,Some animals are playing wildly in the water,A few animals are playing in the water,4.4,ENTAILMENT
+1909,The windows are being polished by a man,The windows are being cleaned by a man,4.4,ENTAILMENT
+1912,The man is driving a car carefully,The man is driving a car,4.6,ENTAILMENT
+1935,The baby is being put into a trash can by a woman,A woman is putting the baby into a trash can,4.9,ENTAILMENT
+1946,One small child is greedily drinking water from the cup,One small child is drinking water from the cup,4.8,ENTAILMENT
+1967,"The woman is happily playing a guitar, which is acoustic, and singing","The woman is playing a guitar, which is acoustic, and singing",4.5,ENTAILMENT
+1970,"The woman is happily playing a guitar, which is acoustic, and singing",A person is playing a guitar and singing,4.4,ENTAILMENT
+1972,The singer is playing the guitar at an acoustic concert for a woman,A person is playing a guitar and singing,3.9,ENTAILMENT
+1988,A young woman is playing the guitar,A girl is playing the guitar,4.5,ENTAILMENT
+1991,One man is intensely playing a guitar,The man is intensely playing the guitar,4.8,ENTAILMENT
+2004,A man is riding a motorbike,A man is driving a motorbike,4.6,ENTAILMENT
+2014,A magic trick is being performed by the magician,The man is doing a magic trick,4.3,ENTAILMENT
+2030,The man is practicing the guitar,The person is practicing the guitar,4.6,ENTAILMENT
+2040,The boy is enthusiastically playing in the mud,The boy is playing in the mud,4.5,ENTAILMENT
+2056,A lady is cutting up some meat precisely,A lady is cutting up some meat,4.5,ENTAILMENT
+2064,A boy in his teens is talking to a girl with an internet camera,A boy in his teens is talking to a girl with a webcam,4.7,ENTAILMENT
+2067,One man is talking to a girl with an internet camera,One man is chatting with a girl with an internet camera,5.0,ENTAILMENT
+2075,Eggs are being strongly whisked in a bowl by a person,A person is strongly whisking eggs in a bowl,4.8,ENTAILMENT
+2078,A woman is beating two eggs in a bowl and using a whisk made of wire,One woman is beating two eggs in the bowl and using a whisk made of wire,5.0,ENTAILMENT
+2084,A woman is beating two eggs in a bowl and using a whisk made of wire,Eggs are being strongly whisked in a bowl by a person,4.3,ENTAILMENT
+2087,A woman is beating two eggs in a bowl and using a whisk made of wire,A person is strongly whisking eggs in a bowl,4.6,ENTAILMENT
+2088,An interview is being granted by the man,The man is granting an interview,4.8,ENTAILMENT
+2091,A white car is being driven by the man,A person is driving the white car,4.7,ENTAILMENT
+2104,A man is mindlessly slicing the carrot with a machine,A man is slicing the carrot with a machine,4.3,ENTAILMENT
+2117,Some milk is being hungrily drunk by a cat,The cat is hungrily drinking milk,4.8,ENTAILMENT
+2136,A woman is peeling a potato,A potato is being peeled by a woman,5.0,ENTAILMENT
+2139,The man is slicing some potatoes,The man is slicing potatoes,5.0,ENTAILMENT
+2164,A woman is using a machine made for sewing,A woman is using a sewing machine,4.8,ENTAILMENT
+2170,A woman is using a sewing machine,A woman is sewing with a machine,5.0,ENTAILMENT
+2171,An egg is being cracked into a bowl by a woman,A woman is cracking an egg into a bowl,5.0,ENTAILMENT
+2176,The woman is cracking two eggs into a bowl made of glass,A woman is cracking an egg into a bowl,4.5,ENTAILMENT
+2181,The woman is cracking two eggs into a glass bowl,A woman is cracking an egg into a bowl,4.3,ENTAILMENT
+2184,People are playing cricket,Some people are playing cricket,4.9,ENTAILMENT
+2188,A few men are cheerfully playing cricket,People are playing cricket,4.4,ENTAILMENT
+2198,A man is putting garlic on some slices of bread,A man is sprinkling seasoning on several sliced and buttered loaves of bread,4.3,ENTAILMENT
+2202,Two kids are playing in a swimming pool with a green colored crocodile float,Two kids are playing in a swimming pool with a crocodile float that is green,4.8,ENTAILMENT
+2205,An inflatable crocodile is being pushed by two kids in a pool,Two kids are pushing an inflatable crocodile in a pool,5.0,ENTAILMENT
+2215,Someone is falling off the horse,Someone is falling off a horse,4.8,ENTAILMENT
+2218,The man is abruptly knocked off of a horse,The man is being knocked off of a horse,4.3,ENTAILMENT
+2222,The man is being knocked off of a horse,Someone is falling off the horse,3.9,ENTAILMENT
+2226,A woman is tapping her fingers nervously,A woman is tapping her fingers,4.6,ENTAILMENT
+2228,A woman is tapping her fingers on a desk,A woman is tapping her fingers on a table,4.2,ENTAILMENT
+2234,A woman is tapping her fingers on a table,A woman is tapping her fingers,4.7,ENTAILMENT
+2235,A dog is pushing a toddler into a rain puddle,A dog is pushing a toddler into a puddle of rain,4.9,ENTAILMENT
+2243,A dog is pushing a toddler into a puddle of rain,The dog is knocking a boy into the water,3.9,ENTAILMENT
+2250,A man is eating a bowl of cereal,Cereal is being eaten by the man,4.8,ENTAILMENT
+2252,A man is hungrily eating a bowl of cereal,The man is eating cereal,4.7,ENTAILMENT
+2266,The woman is adding sugar to the meat slowly,The woman is adding sugar to the meat,4.55,ENTAILMENT
+2272,The woman is adding sugar to the meat,A woman is adding spices to some meat,3.9,ENTAILMENT
+2281,A dog is opening a can of food,A dog is biting a can,3.3,ENTAILMENT
+2282,A cat is playing with a watermelon,One cat is playing with a watermelon,4.9,ENTAILMENT
+2288,One cat is playing with a watermelon,The cat is playing with a watermelon,5.0,ENTAILMENT
+2291,The boy is playing a guitar,A boy is playing a guitar,4.8,ENTAILMENT
+2297,The boy is playing a guitar,A kid is playing a guitar,4.5,ENTAILMENT
+2299,A boy is playing a guitar,A kid is playing a guitar,4.8,ENTAILMENT
+2302,The woman is waterskiing fearlessly,The woman is waterskiing,4.5,ENTAILMENT
+2309,Someone is banging the lens of a camera against a nail,Someone is banging a camera lens against a nail,4.9,ENTAILMENT
+2318,Someone is banging the lens of a camera against a nail,The man is hammering a nail with a camera,4.5,ENTAILMENT
+2322,A person is slicing an onion,A person is cutting an onion,4.8,ENTAILMENT
+2340,The oriental lady is cutting a carrot into pieces that are thin,A woman is slicing a carrot,4.0,ENTAILMENT
+2360,The tall person is setting fire to the cameras,The person is setting fire to the cameras,4.5,ENTAILMENT
+2368,A man is playing the guitar,One man is playing the guitar,4.9,ENTAILMENT
+2374,The man is playing an acoustic guitar,One man is playing the guitar,4.1,ENTAILMENT
+2377,A person is cutting an onion into pieces,A person is dicing an onion,4.7,ENTAILMENT
+2391,The man is slicing a potato,The person is slicing the potato,4.6,ENTAILMENT
+2397,Somebody is cutting a tomato,Someone is cutting a tomato,5.0,ENTAILMENT
+2401,The woman is slicing a tomato,Someone is cutting a tomato,4.5,ENTAILMENT
+2415,Some runners are competing in a race,Runners are competing in a race,4.9,ENTAILMENT
+2438,The man is funnily playing the piano with his nose,The man is playing the piano with his nose,4.6,ENTAILMENT
+2440,The man is funnily playing the piano with his nose,A man is playing the keyboard with his nose,4.7,ENTAILMENT
+2445,The man is playing the piano with his nose,A man is playing the keyboard with his nose,4.5,ENTAILMENT
+2455,A baby rhino is walking around a pen with its mother,"A rhino, which is little, is following an adult rhino",4.2,ENTAILMENT
+2458,A baby rhino is walking around a pen with its mother,A baby rhino is following an adult rhino,4.1,ENTAILMENT
+2459,A man is riding a motorbike,A man is riding a motorcycle,5.0,ENTAILMENT
+2465,A man is riding a motorcycle through the town,A man is riding a motorbike,4.6,ENTAILMENT
+2467,A man is riding a motorcycle through the town,A man is riding a motorcycle,4.4,ENTAILMENT
+2472,Some persons are singing,A group of people is singing,4.8,ENTAILMENT
+2474,Some people are singing,A few people are singing,4.7,ENTAILMENT
+2486,One man is dancing,A man is dancing,4.6,ENTAILMENT
+2495,A man is carefully climbing a rope,A man is climbing a rope,4.5,ENTAILMENT
+2506,A woman is dancing beautifully in a cage,A woman is dancing in a cage,4.8,ENTAILMENT
+2509,The woman is dancing,The lady is dancing,5.0,ENTAILMENT
+2530,A cat is eating some corn,The cat is eating some corn,5.0,ENTAILMENT
+2539,The person is quickly slicing a vegetable,The person is slicing a vegetable,4.6,ENTAILMENT
+2543,Someone is cutting a tomato,The person is slicing a vegetable,4.6,ENTAILMENT
+2545,Someone is slicing a tomato,The person is slicing a vegetable,4.1,ENTAILMENT
+2554,A little girl is playing a grand piano on stage,A little girl is playing the piano,4.4,ENTAILMENT
+2555,A man is playing the guitar,A man is playing a guitar,4.9,ENTAILMENT
+2561,A man is playing the guitar,Someone is playing the guitar,4.6,ENTAILMENT
+2577,A man is playing a bamboo flute,A flute is being played by the man,4.3,ENTAILMENT
+2579,A man is playing a flute made of bamboo,The man is playing a flute,4.1,ENTAILMENT
+2582,A person is absently cutting mushrooms with a knife,A person is cutting mushrooms with a knife,3.7,ENTAILMENT
+2588,A person is absently cutting mushrooms with a knife,A person is cutting some mushrooms,4.2,ENTAILMENT
+2590,A person is cutting mushrooms with a knife,A person is cutting some mushrooms,4.8,ENTAILMENT
+2591,A tiger is pacing around a cage,A tiger is walking around a cage,4.8,ENTAILMENT
+2592,A tiger is walking outside a cage,A tiger is walking around a cage,4.4,ENTAILMENT
+2593,A tiger is walking around with no aim,A tiger is walking around aimlessly,3.965,ENTAILMENT
+2602,A monkey is brushing the dog,The monkey is brushing the dog,5.0,ENTAILMENT
+2615,The lady is dicing onions,The woman is dicing onions,5.0,ENTAILMENT
+2622,A man is wearing a hard hat and dancing,A man is wearing a hat which is hard and is dancing,4.9,ENTAILMENT
+2625,A man with a hard hat is dancing,The man with a hard hat is dancing,4.9,ENTAILMENT
+2627,The man with a hard hat is dancing,A man is wearing a hard hat and dancing,5.0,ENTAILMENT
+2632,A man is wearing a hard hat and dancing,A man with a hard hat is dancing,4.7,ENTAILMENT
+2638,Two boys on a couch are playing games on the TV,Two boys are playing a video game,4.0,ENTAILMENT
+2643,Two boys on a couch are playing video games,Two boys are playing a video game,4.3,ENTAILMENT
+2655,The lady is carefully slicing up the meat,The lady is slicing up the meat,4.3,ENTAILMENT
+2664,Some ferrets are climbing down from a shelf,Ferrets are climbing down from a shelf,4.9,ENTAILMENT
+2666,A few ferrets are climbing out of the cage,Several ferrets are climbing out of the cage,4.8,ENTAILMENT
+2673,A man is getting into an automobile,A man is getting into a car,4.8,ENTAILMENT
+2675,A man is hurriedly getting into a car in a garage,A man is getting into a car in a garage,4.7,ENTAILMENT
+2684,A person is cutting a capsicum into pieces,A capsicum is being cut into pieces by a person,4.9,ENTAILMENT
+2689,A person is cutting a capsicum into pieces,The person is not slicing a clove of garlic into pieces,3.5,ENTAILMENT
+2701,The man is singing and playing the guitar,A man is playing a guitar,4.3,ENTAILMENT
+2702,The person is boiling noodles,A person is boiling noodles,5.0,ENTAILMENT
+2708,A woman is boiling noodles in water,The person is boiling noodles,4.6,ENTAILMENT
+2710,A woman is boiling noodles in water,A person is boiling noodles,4.3,ENTAILMENT
+2711,A karate practitioner is kicking at another man who is wearing protective boxing gloves,A karate practitioner is kicking at another man who is wearing protective gloves for boxing,4.8,ENTAILMENT
+2713,The man is clumsily kick boxing with a trainer,The man is kick boxing with a trainer,4.5,ENTAILMENT
+2715,The man is kicking a boxing trainer,The man is kick boxing with a trainer,3.65,ENTAILMENT
+2724,A woman on a boulder is lying on a blanket and reading a book,A woman on a rock is lying on a blanket and reading a book,4.615,ENTAILMENT
+2735,The woman is playing a guitar which is electric,The woman is playing an electric guitar,4.8,ENTAILMENT
+2744,The woman is cracking eggs into a bowl,Eggs are being cracked into a bowl by the woman,5.0,ENTAILMENT
+2748,The lady is breaking eggs that are raw into a bowl,The woman is cracking eggs into a bowl,4.4,ENTAILMENT
+2751,A soccer player is scoring a goal,A player of soccer is scoring a goal,4.7,ENTAILMENT
+2757,A player of soccer is scoring a goal,Soccer players are kicking a soccer ball into the goal,4.3,ENTAILMENT
+2774,A person is pouring olive oil into a pot on the stove,A person is pouring oil for cooking into a pot,4.3,ENTAILMENT
+2776,A person is pouring oil made with olives into a pot on the stove,A person is pouring cooking oil into a pot,4.2,ENTAILMENT
+2779,A person is pouring olive oil into a pot on the stove,A person is pouring cooking oil into a pot,4.2,ENTAILMENT
+2784,A woman is walking the dog down the street,The dog is being walked by the woman,4.715,ENTAILMENT
+2788,A woman is walking the dog down the street,The woman is walking the dog,4.4,ENTAILMENT
+2789,A guinea pig is devouring a carrot,A guinea pig is eating a carrot,5.0,ENTAILMENT
+2797,A small guinea pig is gnawing and eating a piece of carrot on the floor,A guinea pig is eating a carrot,4.6,ENTAILMENT
+2800,The woman is slicing an onion,An onion is being sliced by the woman,5.0,ENTAILMENT
+2807,The plane is landing,A plane is landing,4.9,ENTAILMENT
+2809,A cartoon airplane is landing,An animated airplane is landing,4.7,ENTAILMENT
+2811,A cartoon airplane is landing,A plane is landing,4.3,ENTAILMENT
+2813,An animated airplane is landing,The plane is landing,4.1,ENTAILMENT
+2815,An animated airplane is landing,A plane is landing,4.4,ENTAILMENT
+2827,The girl is using an eye pencil on her eyelid,The girl is using a pencil for the eyes on her eyelid,4.9,ENTAILMENT
+2838,"A girl, who is little, is playing a grand piano on stage",A little girl is playing a grand piano on stage,4.8,ENTAILMENT
+2844,A little girl is playing a grand piano on stage,A girl is playing the piano,4.3,ENTAILMENT
+2845,The woman is cooking eggs,A woman is cooking eggs,5.0,ENTAILMENT
+2851,The woman is cooking eggs,The woman is cooking something,4.4,ENTAILMENT
+2853,A woman is cooking eggs,The woman is cooking something,4.2,ENTAILMENT
+2854,Some cats are playing with each other,The cats are playing with each other,4.8,ENTAILMENT
+2856,Two cats are playfully fighting each other,Two cats are fighting each other,4.4,ENTAILMENT
+2863,Two bikes are being ridden by two people,Two people are riding a bike,4.6,ENTAILMENT
+2865,Two people are riding a motorcycle,Two people are driving a motorcycle,4.5,ENTAILMENT
+2868,Two people are stopping on a motorcycle,Two people are riding a bike,2.9,ENTAILMENT
+2874,The man is riding a mechanical bull,The man is riding a bull which is mechanical,4.8,ENTAILMENT
+2881,A woman is skillfully playing a flute,A woman is playing a flute,4.3,ENTAILMENT
+2883,The woman is playing the flute,The flute is being played by the woman,4.9,ENTAILMENT
+2890,The man is lifting barbells,A man is lifting barbells,4.9,ENTAILMENT
+2894,The man is lifting barbells,Weights are being lifted by the man,4.4,ENTAILMENT
+2896,A man is lifting barbells,The man is lifting weights,4.6,ENTAILMENT
+2899,A man is chopping down a tree with an axe,A person is chopping down a tree with an axe,4.6,ENTAILMENT
+2903,A tree is being cut by a man with an axe,A man is chopping down a tree with an axe,4.7,ENTAILMENT
+2905,A man is cutting a tree with an axe,A person is chopping down a tree with an axe,4.6,ENTAILMENT
+2907,A man is cutting a tree with an axe,A man is chopping down a tree with an axe,4.7,ENTAILMENT
+2908,A girl is applying makeup to her face,The girl is applying makeup to her face,4.9,ENTAILMENT
+2910,A lady is putting on makeup,A woman is putting on makeup,5.0,ENTAILMENT
+2917,A herd of deer is crossing the street,One herd of deer is crossing the street,4.8,ENTAILMENT
+2919,The herd of caribous is crossing a road quickly,The herd of caribous is crossing a road,4.2,ENTAILMENT
+2926,A woman is slicing an onion,An onion is being sliced by a woman,4.9,ENTAILMENT
+2935,Two men are fighting in a cattle pen,Two men are fighting in a pen for cattle,4.6,ENTAILMENT
+2937,Two men are fighting in a cow pasture,Two men are fighting in a pasture for cows,4.9,ENTAILMENT
+2952,The woman is penciling on eyeshadow,A woman is applying cosmetics to her eyelid,4.7,ENTAILMENT
+2955,A man is eating a banana,A banana is being eaten by a man,4.8,ENTAILMENT
+2957,The man is absently eating a banana by a tree,The man is eating a banana by a tree,4.5,ENTAILMENT
+2959,The man is absently eating a banana by a tree,A man is eating a banana,3.8,ENTAILMENT
+2961,The man is eating a banana by a tree,A banana is being eaten by a man,4.7,ENTAILMENT
+2964,A big green ball is knocking a potato,"A ball, which is green and big, is knocking a potato",4.9,ENTAILMENT
+2969,A large green colored ball is hitting a potato,A big green ball is knocking a potato,4.7,ENTAILMENT
+2971,"A ball, which is green and big, is knocking a potato",A large green ball is hitting a potato,4.6,ENTAILMENT
+2974,A large green ball is hitting a potato,A big green ball is knocking a potato,4.8,ENTAILMENT
+2977,Different teams are playing football on a field,Different football players are teaming on a field,3.9,ENTAILMENT
+2980,Two teams are enthusiastically playing soccer,Different teams are playing football on a field,3.8,ENTAILMENT
+2988,A boy is comfortably sitting in a room and playing a piano by a lamp,A boy is sitting in a room and playing a piano by lamp light,4.1,ENTAILMENT
+2994,A boy is sitting in a room and playing a piano by lamp light,A boy is playing a keyboard,4.0,ENTAILMENT
+2997,A woman is playing an electric guitar,A woman is playing a guitar which is electric,5.0,ENTAILMENT
+3014,A man in a suit is standing at a microphone and singing,The man on stage is singing into the microphone,4.3,ENTAILMENT
+3015,Some teenage girls are dancing for the camera,Some girls in their teens are dancing for the camera,4.6,ENTAILMENT
+3024,A few children are jumping on a trampoline,Some children are jumping on a trampoline,4.6,ENTAILMENT
+3039,The puppy is playing with a plastic container,The dog is playing with a plastic container,4.4,ENTAILMENT
+3041,The puppy is playing with a plastic container,The dog is playing with a plastic container,4.4,ENTAILMENT
+3042,A man is athletically jumping a wall,A man is jumping a wall,4.5,ENTAILMENT
+3047,A man is jumping off a low wall,A man is jumping a wall,4.2,ENTAILMENT
+3059,A man is pouring oil into a pan,A man is pouring oil into a skillet,4.5,ENTAILMENT
+3062,A man is talking to the woman who is seated beside him and is driving a car,A woman is driving a car and is talking to the man who is seated beside her,4.3,ENTAILMENT
+3065,A woman is driving a car and is talking to the man who is seated beside her,The woman and the man are travelling by automobile,4.2,ENTAILMENT
+3068,There is no woman driving a car and talking to the man seated beside her,The woman and the man are travelling by car,3.8,ENTAILMENT
+3069,A man is talking to the woman who is seated beside him and is driving a car,The woman and the man are travelling by car,4.2,ENTAILMENT
+3071,The person is brushing a cat,A person is brushing a cat,5.0,ENTAILMENT
+3073,A person is combing the fur of a cat,The fur of a cat is being combed by a person,4.9,ENTAILMENT
+3079,A person is brushing a cat,A person is combing the fur of a cat,4.6,ENTAILMENT
+3091,Three men are dancing,A few men are dancing,4.5,ENTAILMENT
+3111,The man is eating,The person is eating,4.4,ENTAILMENT
+3126,A woman is using an eye pencil and is applying eye liner to her eyelid,A woman is applying cosmetics to her eyelid,4.4,ENTAILMENT
+3129,A baby is sneezing and scaring another baby,A baby is sneezing and frightening another baby,4.9,ENTAILMENT
+3156,A man is cutting a box,A box is being cut by a man,4.9,ENTAILMENT
+3158,The man is cutting the tape on the box,A man is cutting the tape on the box,5.0,ENTAILMENT
+3182,A man is slowly trekking in the woods,The man is hiking in the woods,4.5,ENTAILMENT
+3187,A woman is slicing a carrot,A woman is cutting a carrot,4.9,ENTAILMENT
+3200,The woman is stirring meat in a bowl,A lady is mixing a mixture of meat in a bowl,4.7,ENTAILMENT
+3202,A lady is mixing a meat mixture in a bowl,The woman is stirring meat in a bowl,4.6,ENTAILMENT
+3203,A lemon is being squeezed by a woman,A woman is squeezing a lemon,4.9,ENTAILMENT
+3214,The little cat is playing with a toy,The kitten is playing with a toy,4.8,ENTAILMENT
+3218,A kitten is playing with a toy made of blue rope,The kitten is playing with a toy,4.6,ENTAILMENT
+3221,A boy is fearfully walking across a bridge,A boy is walking across a bridge,4.7,ENTAILMENT
+3223,A man is walking slowly across a rope bridge,A man is walking slowly across a bridge made of rope,4.9,ENTAILMENT
+3230,A boy is hanging a fishing rod and running in front of a fish ,A boy is hanging a rod for fishing and running in front of a fish,5.0,ENTAILMENT
+3248,A woman is boiling eggs,Eggs are being boiled by a woman,4.9,ENTAILMENT
+3256,A woman is placing two eggs into a pot of water,A woman is boiling eggs,4.2,ENTAILMENT
+3257,A man is playing the guitar,The man is playing the guitar,5.0,ENTAILMENT
+3261,A man is playing the guitar,A guitar is being played by a man,5.0,ENTAILMENT
+3272,The soccer player is kicking the ball between somebody's legs,A person is kicking a ball for a soccer game between somebody's feet,4.2,ENTAILMENT
+3277,"The boy, who is young, is running through the ocean waves",The young boy is running through the ocean waves,5.0,ENTAILMENT
+3280,"The boy, who is young, is running through the ocean waves",A child is running in and out of the ocean waves,4.4,ENTAILMENT
+3283,The young boy is running through the ocean waves,A child is running in and out of the waves of the ocean,4.5,ENTAILMENT
+3285,The young boy is running through the ocean waves,A child is running in and out of the ocean waves,4.0,ENTAILMENT
+3286,A woman is coating a pork chop,A cook is coating a pork chop,4.3,ENTAILMENT
+3288,A woman is grating carrots,Carrots are being grated by a woman,5.0,ENTAILMENT
+3298,The man and woman are strolling,The man and woman are walking,4.5,ENTAILMENT
+3304,A man is walking a woman through the woods,The man and woman are walking,4.0,ENTAILMENT
+3314,The south African plane is flying in a blue sky,An airplane is flying through the air,3.9,ENTAILMENT
+3325,The woman is frying a breaded pork chop,A woman is cooking a breaded pork chop,4.7,ENTAILMENT
+3344,A man is standing on a roof top and playing a violin,A man is standing on a roof,4.0,ENTAILMENT
+3357,A woman is peeling a potato,A potato is being peeled by a woman,4.9,ENTAILMENT
+3359,A potato is being peeled by a woman,A woman is peeling a potato,5.0,ENTAILMENT
+3366,Someone is cleaning an animal,Someone is cleansing an animal,4.5,ENTAILMENT
+3368,A woman is cleaning a shrimp,Someone is cleansing an animal,3.4,ENTAILMENT
+3370,The woman is cleaning a shrimp,Someone is cleaning an animal,3.9,ENTAILMENT
+3372,A woman is cleaning a shrimp,Someone is cleaning an animal,4.2,ENTAILMENT
+3376,The boy is speedily riding a tricycle,The boy is riding a tricycle,4.385,ENTAILMENT
+3386,One panda is eating a bamboo cane,The panda is eating bamboo,4.6,ENTAILMENT
+3395,The woman is stirring eggs in a bowl,The lady is stirring eggs in a bowl,4.9,ENTAILMENT
+3411,The man is catching a fish,A man is catching a fish,4.9,ENTAILMENT
+3414,A woman is carefully deboning a fish,A woman is deboning a fish,4.6,ENTAILMENT
+3422,A man is playing a harp,The man is playing a harp,5.0,ENTAILMENT
+3435,A person is wiping butter on a tray,A person is spreading butter on a tray,4.1,ENTAILMENT
+3437,A person is buttering a tray,A person is spreading butter on a tray,4.9,ENTAILMENT
+3444,A woman is being handed volleyballs by another woman,One woman is handing volleyballs to another woman,5.0,ENTAILMENT
+3451,One man is chopping a log with an axe,A man is chopping a log with an axe,4.9,ENTAILMENT
+3453,The man is chopping the trunk of a tree with an axe,The man is chopping a tree trunk with an axe,4.9,ENTAILMENT
+3462,A man is strumming a guitar,A man is playing a guitar,4.5,ENTAILMENT
+3471,The man is thinking,A man is thinking,5.0,ENTAILMENT
+3480,"A cat with a white coat, perched on a small wooden cabinet, is looking outside the window",A white cat perched on a small wooden cabinet is looking outside the window,4.8,ENTAILMENT
+3486,A white cat perched on a small wooden cabinet is looking outside the window,The cat perched on the table is looking curiously out the window,4.0,ENTAILMENT
+3488,A white cat perched on a small wooden cabinet is looking outside the window,The cat is looking out the window at the table on the perch,3.8,ENTAILMENT
+3504,A woman is slicing garlic,A woman is chopping up garlic,4.4,ENTAILMENT
+3508,A woman is chopping up garlic,Garlic is being diced by the woman,4.8,ENTAILMENT
+3510,The woman is dicing garlic,A woman is slicing garlic,4.6,ENTAILMENT
+3512,A woman is chopping up garlic,The woman is dicing garlic,4.8,ENTAILMENT
+3530,The person is writing with a pencil,The person is writing,4.8,ENTAILMENT
+3533,Somebody is boiling okra in a pot,Someone is boiling okra in a pot,4.8,ENTAILMENT
+3544,The man is dancing,A man is dancing,4.9,ENTAILMENT
+3561,A squirrel is crazily spinning around in circles,A squirrel is running around in circles,4.45,ENTAILMENT
+3567,The piece of paper is being cut,Some paper is being cut,4.6,ENTAILMENT
+3569,Some paper is being cut,Paper is being cut with scissors,4.9,ENTAILMENT
+3571,Someone is cutting some paper with scissors,The piece of paper is being cut,4.5,ENTAILMENT
+3574,Paper is being cut with scissors,The piece of paper is being cut,4.4,ENTAILMENT
+3577,The man is skillfully playing the guitar,The man is playing a guitar,4.5,ENTAILMENT
+3580,A man is playing a flute,The man is not playing the guitar,3.1,ENTAILMENT
+3584,A man is playing the drums,The drums are being played by a man,4.9,ENTAILMENT
+3592,A man is playing the drums,A man is playing the drum,4.8,ENTAILMENT
+3603,The man is doing floor exercises,A man is doing exercises,4.3,ENTAILMENT
+3623,Some fish are swimming,A fish is swimming,4.3,ENTAILMENT
+3624,A woman is clumsily putting meat in a pan,A woman is putting meat in a pan,4.5,ENTAILMENT
+3629,A woman is putting meat in a pan,Someone is dropping the meat into a pan,4.6,ENTAILMENT
+3635,A man is holding a frog,A person is holding a frog,4.7,ENTAILMENT
+3647,"The boys are standing in front of the car, which is burning",The boys are standing in front of the burning car,5.0,ENTAILMENT
+3666,A man and a woman are walking nicely,A man and a woman are walking,4.9,ENTAILMENT
+3668,A man is strolling in the rain,A man is walking in the rain,5.0,ENTAILMENT
+3691,The men are carefully putting suitcases into the trunk of a car,The men are putting suitcases into the trunk of a car,4.6,ENTAILMENT
+3693,The men are carefully putting suitcases into the trunk of a car,The men are packing suitcases into the trunk of a car,4.5,ENTAILMENT
+3695,The men are putting suitcases into the trunk of a car,The men are placing suitcases in the trunk of a car,4.9,ENTAILMENT
+3699,A woman is putting on eyeshadow,Eyeshadow is being put on by a woman,5.0,ENTAILMENT
+3701,A woman is putting make-up on,The woman is putting make-up on,4.8,ENTAILMENT
+3703,A woman is putting on eyeshadow,The woman is putting make-up on,4.3,ENTAILMENT
+3705,Eyeshadow is being put on by a woman,A woman is putting make-up on,4.2,ENTAILMENT
+3707,A woman is putting on eyeshadow,A woman is putting make-up on,4.5,ENTAILMENT
+3708,A toy train is violently striking a toy car,A toy train is striking a toy car,4.5,ENTAILMENT
+3710,A toy train is striking a toy car,A toy train is hitting a toy car,4.8,ENTAILMENT
+3713,A toy train is striking a toy car,A toy train is hitting a toy car,4.9,ENTAILMENT
+3719,The person is peeling an onion,A person is peeling an onion,4.9,ENTAILMENT
+3743,A woman is playing a guitar,A guitar is being played by a woman,4.7,ENTAILMENT
+3750,A boy is looking at a calendar,A boy is staring at a calendar,4.2,ENTAILMENT
+3752,The boy is studying a calendar,A boy is studying a calendar,5.0,ENTAILMENT
+3756,A boy is studying a calendar,A boy is staring at a calendar,4.8,ENTAILMENT
+3758,A boy is looking at a calendar,A boy is studying a calendar,4.5,ENTAILMENT
+3759,A person is stupidly throwing a cat at the ceiling,A person is throwing a cat at the ceiling,4.5,ENTAILMENT
+3761,A person is throwing a cat at the ceiling,A cat is thrown at the ceiling by a person,4.9,ENTAILMENT
+3765,A person is stupidly throwing a cat at the ceiling,A person is throwing a cat at the ceiling,4.4,ENTAILMENT
+3770,The woman is taking up and holding a baby kangaroo,The woman is picking up and holding a baby kangaroo,4.4,ENTAILMENT
+3774,The woman is picking up and holding a baby kangaroo,"A woman is picking up and holding a kangaroo, which is a baby, in her arms",4.7,ENTAILMENT
+3776,The woman is picking up and holding a baby kangaroo,A woman is picking up and holding a baby kangaroo in her arms,4.6,ENTAILMENT
+3777,A woman is dancing and a man is playing the keyboard,The woman is dancing and a man is playing the keyboard,4.9,ENTAILMENT
+3780,A woman is gracefully dancing on a stage,A woman is dancing on a stage,4.5,ENTAILMENT
+3795,A woman is scrubbing a zucchini with a brush for vegetables,A person is scrubbing a zucchini,4.6,ENTAILMENT
+3800,A woman is scrubbing a zucchini with a vegetable brush,A person is scrubbing a zucchini,4.7,ENTAILMENT
+3801,A man in a cap is playing a harp,A man in a hat is playing a harp,5.0,ENTAILMENT
+3804,A man is playing a guitar,A man is playing an instrument,4.3,ENTAILMENT
+3823,A concentrated woman is playing flute,A woman is playing flute,4.3,ENTAILMENT
+3825,The woman is playing a flute,A woman is playing a flute,5.0,ENTAILMENT
+3827,A woman is playing flute,The woman is playing a flute,4.9,ENTAILMENT
+3831,A woman is playing a flute,A woman is playing flute,4.9,ENTAILMENT
+3834,The man is riding a horse by a creek,The man is riding a horse by a stream,4.4,ENTAILMENT
+3836,A horse is being ridden in a creek by a man,The man is riding a horse by a creek,4.6,ENTAILMENT
+3839,A horse is being ridden in a creek by a man,A man is riding a horse,4.7,ENTAILMENT
+3840,The man is riding a horse by a creek,A horse is being ridden by a man,4.3,ENTAILMENT
+3846,The cat is playing keyboards,A cat is playing keyboards,5.0,ENTAILMENT
+3853,A cat is playing a piano,A cat is playing keyboards,4.4,ENTAILMENT
+3856,The man is walking along a path through the wilderness,The man is walking along a track through the wilderness,4.7,ENTAILMENT
+3870,The man is rising from a swamp,A man is coming out of the water,3.9,ENTAILMENT
+3884,A man is dancing upside-down on the ceiling,A man is dancing on the ceiling of a room,4.3,ENTAILMENT
+3885,A man is dancing,A male is dancing,4.6,ENTAILMENT
+3887,A man is singing passionately,A man is singing,4.8,ENTAILMENT
+3905,The man is singing heartily and playing the guitar,The man is singing and playing the guitar,4.3,ENTAILMENT
+3912,A few people are dancing,A group of people are dancing,4.5,ENTAILMENT
+3914,The women are divinely dancing outside,The women are dancing outside,4.5,ENTAILMENT
+3920,The women are dancing outside,A group of people are dancing,3.8,ENTAILMENT
+3924,Two men are doing a funny skit with a boxer in front of a crowd of people,"Two men are doing a skit, which is very funny, with a boxer in front of a crowd of people",5.0,ENTAILMENT
+3934,The boy is checking a calendar,A boy is checking a calendar,4.9,ENTAILMENT
+3936,A boy is attentively looking at a calendar,A boy is looking at a calendar,4.6,ENTAILMENT
+3938,A boy is attentively looking at a calendar,A boy is checking a calendar,4.4,ENTAILMENT
+3940,The boy is checking a calendar,A boy is looking at a calendar,4.8,ENTAILMENT
+3942,A boy is checking a calendar,A boy is looking at a calendar,4.6,ENTAILMENT
+3943,The men are fighting with their fists in a ring,The men are fist fighting in a ring,4.8,ENTAILMENT
+3947,The men are fist fighting in a ring,Two people are fist fighting in a ring,4.2,ENTAILMENT
+3949,The men are fighting with their fists in a ring,Two men are fist fighting in a ring,4.8,ENTAILMENT
+3951,Two men are fist fighting in a ring,The men are fist fighting in a ring,4.6,ENTAILMENT
+3957,The boy is riding a bike on the top of a fence made of metal,A biker is riding along the top of a fence,3.8,ENTAILMENT
+3972,A child is slowly waking up,A child is waking up,4.5,ENTAILMENT
+3976,A girl is awakening,A child is waking up,4.4,ENTAILMENT
+3980,A girl is waking up,A child is waking up,4.4,ENTAILMENT
+3990,A boy is skillfully playing a piano,A boy is playing a piano,4.1,ENTAILMENT
+3992,A man is singing and playing a guitar,A person is singing and playing a guitar,4.9,ENTAILMENT
+4004,A man is climbing up a rope,The man is climbing up a rope,4.9,ENTAILMENT
+4012,The woman is picking up a kangaroo that is little,The woman is picking up a baby kangaroo,4.5,ENTAILMENT
+4021,The woman is picking up a kangaroo that is little,The woman is picking up the kangaroo,4.6,ENTAILMENT
+4036,A person is riding a jetski in the waves,The person is riding a jetski in the waves,5.0,ENTAILMENT
+4038,A Seadoo is being ridden by a woman,A woman is riding a Seadoo,5.0,ENTAILMENT
+4045,A man is dancing,A person is dancing,4.5,ENTAILMENT
+4047,A man is slowly dancing on the road,A man is dancing on the road,4.7,ENTAILMENT
+4049,A man is slowly dancing on the road,A man is dancing,4.4,ENTAILMENT
+4056,A man is running on the road,The man is running on the road,4.8,ENTAILMENT
+4063,A man is outside and is throwing blades at a target which is close,A man is outside and is throwing blades at a close target,4.8,ENTAILMENT
+4074,A horse is being ridden by a man,A man is riding a horse,5.0,ENTAILMENT
+4076,One man is riding a horse,The man is riding a horse,5.0,ENTAILMENT
+4084,The man is riding a horse,A man is riding a horse,5.0,ENTAILMENT
+4085,A picture is being drawn by a man,A man is drawing a picture,4.9,ENTAILMENT
+4090,Someone is drawing a person,The person is drawing,4.0,ENTAILMENT
+4094,A picture is being drawn by a man,The person is drawing,4.1,ENTAILMENT
+4100,Someone is playing the guitar,Somebody is playing the guitar,4.8,ENTAILMENT
+4109,A man is eating a pizza,A pizza is being eaten by a man,4.9,ENTAILMENT
+4113,A man is eating a pizza,Some food is being eaten by a man,4.4,ENTAILMENT
+4115,A man is eating a pizza,A man is eating some food,4.2,ENTAILMENT
+4118,The panda bear is resting on the logs,The panda bear is lying on the logs,4.7,ENTAILMENT
+4127,A dog is jumping on a trampoline,A dog is bouncing on a trampoline,5.0,ENTAILMENT
+4136,A man is doing back flips on a trampoline,A man is jumping on a trampoline,4.3,ENTAILMENT
+4145,A woman is slicing an onion,A woman is cutting an onion,4.9,ENTAILMENT
+4147,A woman is cutting meat,A woman is slicing some meat,4.9,ENTAILMENT
+4152,A woman is cutting meat,There is no woman cutting an onion,2.4,ENTAILMENT
+4154,A man is playing a wooden flute,A wooden flute is being played by a man,5.0,ENTAILMENT
+4163,The man is cleaning the drawing on the board,The man is erasing the drawing on the board,4.6,ENTAILMENT
+4165,The man is erasing the other man's work from the board,The man is erasing the other man's work from the panel,4.4,ENTAILMENT
+4174,An eggplant is being sliced by a woman,A woman is slicing an eggplant,4.8,ENTAILMENT
+4176,An eggplant is being sliced by a woman,A woman is cutting a vegetable,4.1,ENTAILMENT
+4178,A woman is slicing an eggplant,A woman is slicing a vegetable,4.3,ENTAILMENT
+4181,A dog is eating a doll,A dog is biting a doll,4.3,ENTAILMENT
+4183,A dog is playing with a toy,A dog is having fun with a toy,4.4,ENTAILMENT
+4194,A man is praying fervently,A man is praying,4.4,ENTAILMENT
+4205,A man is slicing some bread,A man is cutting a slice of bread,4.8,ENTAILMENT
+4207,A man is slicing bread,A person is slicing a piece of bread,4.4,ENTAILMENT
+4209,A man is slicing some bread,A person is slicing a piece of bread,4.6,ENTAILMENT
+4212,Someone is scratching the belly of an animal,Someone is stroking the belly of an animal,4.3,ENTAILMENT
+4214,Someone is stroking the belly of an animal,A woman is stroking a lemur,3.9,ENTAILMENT
+4219,A lemur is eating quickly,A lemur is eating,4.8,ENTAILMENT
+4221,The animal with big eyes is voraciously eating,The animal with big eyes is eating,4.4,ENTAILMENT
+4228,Guitar is being played by two men,Two men are playing guitar,4.8,ENTAILMENT
+4239,A man is playing an electronic keyboard,An electronic keyboard is being played by a man,4.9,ENTAILMENT
+4246,A song is being sung by a clown,A clown is singing,4.8,ENTAILMENT
+4248,A clown is singing and people are dancing,A costumed performer is singing and people are dancing,4.2,ENTAILMENT
+4254,A clown is singing and people are dancing,A song is being sung by a clown,4.5,ENTAILMENT
+4257,The horse is being ridden by the girl,The girl is riding the horse,4.7,ENTAILMENT
+4259,The girl is spraying the plants with water,The girl is watering the plants,4.6,ENTAILMENT
+4266,A man is rapidly chopping some mushrooms with a knife,A man is quickly chopping some mushrooms with a knife,4.9,ENTAILMENT
+4272,A man is quickly chopping some mushrooms with a knife,A person is quickly chopping mushrooms with a knife,4.4,ENTAILMENT
+4274,A person is quickly chopping mushrooms with a knife,A man is rapidly chopping some mushrooms with a knife,4.7,ENTAILMENT
+4275,A man and a woman are shaking hands,Two persons are shaking hands,4.7,ENTAILMENT
+4277,An old woman is shaking hands with a man,An woman that is old is shaking hands with a man,4.9,ENTAILMENT
+4279,An woman that is old is shaking hands with a man,A man and a woman are shaking hands,4.1,ENTAILMENT
+4280,A young woman is shaking hands with a man,A man and a woman are shaking hands,4.4,ENTAILMENT
+4283,An old woman is shaking hands with a man,A man and a woman are shaking hands,4.4,ENTAILMENT
+4284,A woman is chopping up an octopus,A woman is cutting an octopus,4.8,ENTAILMENT
+4290,The woman is cutting cooked octopus,A woman is cutting an octopus,4.2,ENTAILMENT
+4295,An airplane is taking off,An aircraft is taking off,4.8,ENTAILMENT
+4301,An airplane is taking off,A plane is taking off,4.9,ENTAILMENT
+4304,A woman is riding a horse,A woman is riding an animal,4.5,ENTAILMENT
+4320,A man is making a sketch,A man is drawing,4.1,ENTAILMENT
+4329,A man is making a sketch,The man is drawing,4.9,ENTAILMENT
+4344,Someone is peeling a banana,Someone is removing the peel of a banana,4.9,ENTAILMENT
+4351,A dog is barking noisily,A dog is barking,4.8,ENTAILMENT
+4382,A man is tying a shoe,A man is tying the shoe,4.8,ENTAILMENT
+4386,A shoe is being tied by a man,A man is tying a shoe,5.0,ENTAILMENT
+4393,A man is riding a horse in a sandy land,A guy is riding a horse,4.1,ENTAILMENT
+4394,A man is riding a horse on the beach,A guy is riding a horse,4.7,ENTAILMENT
+4395,A man is riding a horse in the desert,A horse is being ridden by a guy,4.1,ENTAILMENT
+4398,A paper plate is being cut by a man,A man is cutting a paper plate,5.0,ENTAILMENT
+4407,Two men are competing in a tire rolling race,Two men are racing in a tire rolling competition,4.7,ENTAILMENT
+4418,A person is dropping chopped vegetables into a pot on the stove,Chopped vegetables are being dropped into a pot on the stove by a person,4.9,ENTAILMENT
+4445,A man is phoning,A man is talking on the phone,4.3,ENTAILMENT
+4454,The rhino is grazing on the grass,The rhino is being fed on the grass,4.35,ENTAILMENT
+4458,The rhino is grazing on the grass,A animal is grazing in a field,4.1,ENTAILMENT
+4469,A man and a woman are running together and holding hands,A couple is running towards the ocean,3.6,ENTAILMENT
+4472,The content of a bowl is being mixed by a man,A man is mixing the content of a bowl,5.0,ENTAILMENT
+4481,The woman is pouring oil into the pan,Oil is being poured into the pan by the woman,5.0,ENTAILMENT
+4490,A girl is brushing her hair,A girl is styling her hair,4.1,ENTAILMENT
+4497,The doctors are healing a man,The doctors are reviving a man,4.5,ENTAILMENT
+4507,The doctors are reviving a man,The doctor is helping the patient,4.0,ENTAILMENT
+4517,A man is playing a flute,A flute is being played by a man,4.8,ENTAILMENT
+4526,A man is driving a car,A man is driving a vehicle,4.4,ENTAILMENT
+4541,A cat is sliding upside down under a couch,An animal is crawling under a piece of furniture,4.0,ENTAILMENT
+4544,A horse is being ridden by a man,A man is riding a horse,5.0,ENTAILMENT
+4553,A man is emptying a container made of plastic,A man is emptying a plastic container,4.9,ENTAILMENT
+4562,Some men are fighting,A group of men is fighting,4.5,ENTAILMENT
+4564,Two men are battling,Two men are fighting,4.8,ENTAILMENT
+4570,Two men are fighting,Some men are fighting,4.4,ENTAILMENT
+4573,Two women are happily dancing,Two women are dancing,4.6,ENTAILMENT
+4580,A horse is being ridden by a woman,A woman is riding a horse,5.0,ENTAILMENT
+4606,A man is singing and playing a guitar,A man is playing a guitar,4.4,ENTAILMENT
+4611,A man is driving a car,A man is driving a vehicle,4.7,ENTAILMENT
+4616,A boy is cutting grass with scissors,A kid is cutting grass with scissors,4.5,ENTAILMENT
+4634,A man is playing a harp,A harp is being played by a man,4.9,ENTAILMENT
+4636,A keyboard is being played by a man,A man is playing a keyboard,5.0,ENTAILMENT
+4643,A man is cutting a cord with a sword,A man is cutting a rope with a sword,4.5,ENTAILMENT
+4651,A man is cutting a thick rope with a sword,A man is cutting a rope with a sword,4.6,ENTAILMENT
+4652,A man is removing the peel of an onion,A man is peeling an onion,4.8,ENTAILMENT
+4663,An onion is being sliced by a woman,A woman is slicing an onion,4.9,ENTAILMENT
+4673,Someone is drilling a hole in a strip of wood with a power drill,Someone is making a hole in a strip of wood with a drill,4.5,ENTAILMENT
+4680,Someone is drilling a hole in a strip of wood with a power drill,A man is drilling a hole in a piece of wood,4.4,ENTAILMENT
+4681,A woman is slicing an onion,A woman is cutting an onion,4.8,ENTAILMENT
+4683,A woman is slicing garlic,A woman is cutting garlic,4.9,ENTAILMENT
+4696,A man is showing off a small monkey,"A man is holding an animal, which is small, in one hand",4.2,ENTAILMENT
+4699,A group of boys is playing soccer on the seashore,A group of boys is playing soccer on the beach,4.7,ENTAILMENT
+4701,A group of men is playing soccer on the beach,A group of men is playing with a ball on the beach,4.2,ENTAILMENT
+4710,Some pieces of butter are being added to the stand mixer,Pieces of butter are being added to the stand mixer,4.7,ENTAILMENT
+4716,A man is cutting pieces of butter into a mixing bowl,Pieces of butter are being added to the stand mixer,4.0,ENTAILMENT
+4717,A monkey is kicking a person,A person is being kicked by a monkey,4.9,ENTAILMENT
+4720,A monkey is practicing martial arts,A chimp is practicing martial arts,4.5,ENTAILMENT
+4728,A man is fixing a silencer to a gun,A man is applying a silencer to a gun,4.485,ENTAILMENT
+4742,A man on a motorcycle is riding on one wheel,A person is performing acrobatics on a motorcycle,4.1,ENTAILMENT
+4745,A man on a motorcycle is doing a trick,A person is performing tricks on a motorcycle,4.5,ENTAILMENT
+4759,A man is singing into an old microphone,A man is singing into a microphone,4.5,ENTAILMENT
+4766,A man is cooking a snake,A man is roasting a snake,4.7,ENTAILMENT
+4777,A little boy is playing a guitar,A young boy is playing a guitar,4.6,ENTAILMENT
+4793,A boy is playing a guitar,A boy is playing an instrument,4.6,ENTAILMENT
+4795,A guitar is being played by a kid,A kid is playing guitar,5.0,ENTAILMENT
+4797,A boy is playing a guitar,A guitar is being played by a kid,4.5,ENTAILMENT
+4802,A monkey is teasing a dog at the zoo,A dog is being teased by a monkey at the zoo,4.9,ENTAILMENT
+4805,A dog's tail is being pulled by a monkey,A monkey is pulling a dog's tail,4.9,ENTAILMENT
+4815,A person is slicing some ginger,A person is cutting some ginger,4.9,ENTAILMENT
+4817,A person is slicing an onion,An onion is being sliced by a person,5.0,ENTAILMENT
+4826,A man is slicing a potato into pieces,A man is cutting a potato into pieces,4.6,ENTAILMENT
+4832,A man is slicing a potato into pieces,A man is cutting a potato,4.7,ENTAILMENT
+4842,A man is opening a box with a knife,A man is using a knife to open a box,4.835,ENTAILMENT
+4844,A man is playing a guitar,A guitar is being played by a man,5.0,ENTAILMENT
+4853,A man is playing an electronic keyboard,An electronic keyboard is being played by a man,4.9,ENTAILMENT
+4860,A man is dancing,A person is dancing,4.4,ENTAILMENT
+4869,A woman is cutting potatoes,A woman is slicing potatoes,4.9,ENTAILMENT
+4880,A person is stirring vegetables in a pot,A person is stirring vegetables in a bowl,4.3,ENTAILMENT
+4886,A man is mixing vegetables in a pot,A person is stirring vegetables in a pot,4.7,ENTAILMENT
+4898,A man is sharpening a knife,A man is sharpening a weapon,4.4,ENTAILMENT
+4922,A man is singing and playing a guitar,A man is playing a guitar,4.2,ENTAILMENT
+4941,The military officer is barking at the recruits,An officer is talking to the soldiers,4.1,ENTAILMENT
+4944,The military officer is barking at the recruits,An officer is talking to the recruits,4.385,ENTAILMENT
+4954,A child is walking down the street and a jeep is pulling up,A child is walking down the street and a jeep is stopping,4.4,ENTAILMENT
+4965,A woman is cutting a fish,A woman is slicing a fish,5.0,ENTAILMENT
+4974,Someone is holding a hedgehog,Someone is holding a small animal,4.45,ENTAILMENT
+4981,Something is being fried by a woman,A woman is frying something,4.8,ENTAILMENT
+4990,An email is being read by a man,A man is reading an email,4.8,ENTAILMENT
+4992,A person is peeling a banana,A banana is being peeled by a person,4.9,ENTAILMENT
+5005,A big cat is opening a drawer made of plastic with its paws and is jumping inside,A cat is opening a drawer and climbing inside,4.2,ENTAILMENT
+5007,A big cat is opening a plastic drawer with its paws and is jumping inside,A cat is opening a drawer and climbing inside,4.4,ENTAILMENT
+5010,An onion is being sliced by a woman,A woman is slicing an onion,4.9,ENTAILMENT
+5017,A woman is painting a man's face,A man's face is being painted by a woman,4.9,ENTAILMENT
+5022,A woman is painting a man's face,Makeup is being put on the man by the woman,4.1,ENTAILMENT
+5024,The woman is putting makeup on the man,A man's face is being painted by a woman,4.5,ENTAILMENT
+5027,The woman is putting makeup on the man,A woman is painting a man's face,4.4,ENTAILMENT
+5033,The man is talking on the phone,The man is speaking on the telephone,4.8,ENTAILMENT
+5039,A man is slicing onions,A man is cutting onions,4.9,ENTAILMENT
+5048,A man is cutting an onion,An onion is being cut by a man,4.9,ENTAILMENT
+5050,A door is being opened by a man,A man is opening a door,5.0,ENTAILMENT
+5102,Some food is being prepared by a chef,A chef is preparing some food,4.815,ENTAILMENT
+5135,A man is sprinkling cheese on a pizza,A man is putting some cheese on a pizza,4.7,ENTAILMENT
+5137,A man is sprinkling shredded cheese on a pizza,A man is putting some cheese on a pizza,4.8,ENTAILMENT
+5147,A man is buttering a piece of bread,A man is buttering a slice of bread,4.6,ENTAILMENT
+5149,A lemur is hanging on a cord,A lemur is hanging on a rope,4.4,ENTAILMENT
+5167,The drums are being played by the man,The man is playing the drums,4.9,ENTAILMENT
+5176,A woman is frying some food,Some food is being fried by a woman,5.0,ENTAILMENT
+5178,A woman is deep frying food,Some food is being fried by a woman,4.5,ENTAILMENT
+5198,A boy is saying a word,A child is talking,3.9,ENTAILMENT
+5201,Some sticky goo is being pulled out of a bowl by a woman,A woman is pulling some sticky goo out of a bowl,5.0,ENTAILMENT
+5212,The men are playing soccer,The men are playing with a ball,4.5,ENTAILMENT
+5219,A dog is looking around,An animal is looking around,4.6,ENTAILMENT
+5246,The trumpet is being played by a man,A man is playing the trumpet,4.7,ENTAILMENT
+5261,A horse is being ridden by a man,The person is riding the horse,4.7,ENTAILMENT
+5263,A man is riding a horse,The person is riding the horse,4.6,ENTAILMENT
+5277,Sign language is being used by a young girl,A girl is communicating with sign language,4.7,ENTAILMENT
+5282,A rabbit is playing with a stuffed bunny,A bunny is playing with a stuffed bunny,4.5,ENTAILMENT
+5288,A rabbit is playing with a toy rabbit,A rabbit is playing with a stuffed bunny,4.4,ENTAILMENT
+5291,A man is jumping rope in a field,A man is jumping rope outside,4.5,ENTAILMENT
+5304,A potato is being sliced by the man,A man is slicing potatoes,4.6,ENTAILMENT
+5306,The man is slicing a potato,Potatoes are being sliced by a man,4.7,ENTAILMENT
+5311,A wind instrument is being played by a girl,A girl is playing a wind instrument,4.9,ENTAILMENT
+5313,A girl is playing a flute,A wind instrument is being played by a girl,4.3,ENTAILMENT
+5317,A girl is playing a flute,A girl is playing a wind instrument,4.4,ENTAILMENT
+5318,A keyboard is being played by a person,A person is playing a keyboard,4.8,ENTAILMENT
+5327,A man is jumping into a pool,A man is diving into a pool,4.8,ENTAILMENT
+5333,A man is jumping into a pool,A man is diving into a pool,4.4,ENTAILMENT
+5338,The man is seasoning the sausages,The man is seasoning the meat,4.4,ENTAILMENT
+5345,A man is playing a flute,A flute is being played by a man,4.9,ENTAILMENT
+5347,A man is playing a large flute,A large flute is being played by a man,4.9,ENTAILMENT
+5350,A man is playing a small flute,A man is playing a flute,4.7,ENTAILMENT
+5351,A man is playing a large flute,A flute is being played by a man,4.4,ENTAILMENT
+5356,The lady is peeling the potato,The potato is being peeled by the lady,5.0,ENTAILMENT
+5358,A woman is peeling a potato,The potato is being peeled by the lady,4.8,ENTAILMENT
+5362,The lady is peeling the potato,A woman is peeling a potato,5.0,ENTAILMENT
+5372,A man is playing the guitar,A man is playing the instrument,4.3,ENTAILMENT
+5383,The guitar is being played by a man,A man is playing the guitar,5.0,ENTAILMENT
+5398,The man is putting chicken into the container,A man is putting some food in a box,4.315,ENTAILMENT
+5399,Eggs are being cracked into a bowl by a woman,A woman is cracking eggs into a bowl,4.9,ENTAILMENT
+5401,A woman is placing skewers onto a rack,Skewers are being placed onto a rack by a woman,4.9,ENTAILMENT
+5419,A woman is peeling a potato,A woman is peeling food,4.3,ENTAILMENT
+5426,A man is reading the email,A person is reading the email,4.8,ENTAILMENT
+5432,Someone is reading the email,A person is reading the email,4.8,ENTAILMENT
+5434,A man is reading the email,Someone is reading the email,4.6,ENTAILMENT
+5435,Two baby pandas are playing,Two cubs are playing,3.9,ENTAILMENT
+5437,Two pandas are lying together,Two panda bears are lying together,5.0,ENTAILMENT
+5440,Two baby pandas are playing,Two pandas are not lying together,3.2,ENTAILMENT
+5446,A woman is frying fish,Fish is being fried by a woman,5.0,ENTAILMENT
+5455,A woman is playing the flute,The flute is being played by a woman,4.8,ENTAILMENT
+5458,A man is playing a flute,A man is playing the flute,4.9,ENTAILMENT
+5462,A boy is mowing the lawn,A guy is mowing the lawn,4.6,ENTAILMENT
+5464,Grass is being mowed by a man,A man is mowing grass,5.0,ENTAILMENT
+5466,A guy is mowing the lawn,Grass is being mowed by a man,4.5,ENTAILMENT
+5471,A person is frying meat in a pan,A person is frying food in a pan,4.4,ENTAILMENT
+5480,The lady is cracking an egg into a bowl,The lady is cracking an egg into a dish,4.5,ENTAILMENT
+5489,A man is cutting tomatoes,A man is slicing tomatoes,5.0,ENTAILMENT
+5491,Broccoli are being cut by a woman,A woman is cutting broccoli,4.8,ENTAILMENT
+5500,A woman is firing a rifle,A woman is firing a weapon,4.2,ENTAILMENT
+5507,Guitar is being played by a man,A man is playing guitar,4.9,ENTAILMENT
+5518,A man is drawing some figures,A person is drawing some figures,4.6,ENTAILMENT
+5525,A woman is cutting onions,A woman is chopping onions,4.5,ENTAILMENT
+5534,A group of people are dancing at a concert,A group of people are dancing in a show,4.15,ENTAILMENT
+5545,The man is feeding the snake with a mouse,The man is feeding the snake with an animal,4.635,ENTAILMENT
+5552,A boy is playing on a toy phone,A boy is playing on a toy,4.6,ENTAILMENT
+5554,The man is aiming a gun,The man is handling a gun,4.3,ENTAILMENT
+5555,The man is aiming a gun,The man is drawing a gun,4.2,ENTAILMENT
+5561,A horse is being ridden by a girl,A girl is riding a horse,4.8,ENTAILMENT
+5563,The girl is trotting on the horse,The person is trotting on the horse,4.1,ENTAILMENT
+5569,The girl is trotting on the horse,A girl is riding a horse,4.4,ENTAILMENT
+5615,A man is cutting a boot with a sword,A man is cutting a boot with a blade,4.7,ENTAILMENT
+5617,A person is severing the toe of an empty leather boot with a sword,A man is severing the toe of an empty leather boot with a sword,4.815,ENTAILMENT
+5619,A person is severing the toe of an empty leather boot with a sword,A man is cutting a boot with a sword,4.0,ENTAILMENT
+5620,A woman is severing the toe of an empty leather boot with a sword,A man is cutting a boot with a sword,3.6,ENTAILMENT
+5621,A man is severing the toe of an empty leather boot with a sword,A man is cutting a boot with a blade,4.2,ENTAILMENT
+5623,A man is severing the toe of an empty leather boot with a sword,A man is cutting a boot with a sword,4.2,ENTAILMENT
+5624,A chef is cleaning a bowl of soup,A bowl of soup is being cleaned by a chef,4.8,ENTAILMENT
+5633,The guitar is being played by a kid,A kid is playing the guitar,4.8,ENTAILMENT
+5637,A kid is singing and playing a guitar,A kid is playing the guitar,4.2,ENTAILMENT
+5641,A young boy is singing and playing a guitar,A kid is playing the guitar,4.4,ENTAILMENT
+5642,Someone is stirring a pot of chili with a spoon,A pot of chili is being stirred by someone with a spoon,5.0,ENTAILMENT
+5646,Someone is stirring a pot of chili with a spoon,Someone is stirring chili in a pot,4.5,ENTAILMENT
+5653,A man is making a bed,A person is making a bed,4.7,ENTAILMENT
+5671,A small dog is lying on the bed,A small animal is lying on the bed,4.5,ENTAILMENT
+5677,A small dog is lying on a bed,A small dog is lying on the bed,5.0,ENTAILMENT
+5678,A woman is cutting butter,A woman is slicing butter,4.7,ENTAILMENT
+5680,Tofu is being sliced by a woman,A woman is slicing tofu,5.0,ENTAILMENT
+5687,The man is playing the guitar,The man is playing the instrument,4.3,ENTAILMENT
+5696,Some cheese is being put on a pizza by a man,A man is putting some cheese on a pizza,5.0,ENTAILMENT
+5718,A famous singer is dancing on the ceiling,A person is dancing on the ceiling,4.5,ENTAILMENT
+5725,Hay is being eaten by a cow,A cow is eating hay,5.0,ENTAILMENT
+5728,A cow is eating grass,A cow is not eating hay,3.65,ENTAILMENT
+5732,A man is having lunch,A man is eating,4.5,ENTAILMENT
+5741,A baby is playing with a doll,A baby is playing with a toy,4.7,ENTAILMENT
+5750,The man is playing a game on a lawn,The man is playing a game on the grass,4.2,ENTAILMENT
+5752,The rhino is grazing on the grass,The animal is grazing on the grass,4.4,ENTAILMENT
+5761,A woman is talking to a man,A man is talking to a woman,4.5,ENTAILMENT
+5762,A woman is cracking eggs,A woman is breaking eggs,4.8,ENTAILMENT
+5770,A bicycle is being ridden by a man,A man is riding a bicycle,4.8,ENTAILMENT
+5772,A man is riding an electric bicycle,A person is riding an electric bicycle,4.5,ENTAILMENT
+5776,A man is riding an electric bicycle,A bicycle is being ridden by a man,4.6,ENTAILMENT
+5779,A cat is jumping into a container,A cat is jumping into a box,4.4,ENTAILMENT
+5781,A boy is talking to a leaf,A young man is talking to a leaf,4.4,ENTAILMENT
+5788,A fish is being cut by a man,A man is cutting a fish,4.9,ENTAILMENT
+5792,A man is cutting a fish,A fish is being sliced by a man,4.8,ENTAILMENT
+5794,A man is slicing a fish,A fish is being cut by a man,4.4,ENTAILMENT
+5797,A person is frying some food,A person is cooking some food,4.3,ENTAILMENT
+5815,A woman is cutting a tomato,A woman is slicing a tomato,4.8,ENTAILMENT
+5824,A guitar is being played by a girl,A girl is playing a guitar,4.8,ENTAILMENT
+5835,A man is riding a motorcycle,A motorcycle is being ridden by a man,5.0,ENTAILMENT
+5842,The man is playing the guitar,The man is playing the instrument,4.4,ENTAILMENT
+5846,The man is playing the guitar,The person is playing the guitar,4.5,ENTAILMENT
+5848,The man is playing the guitar,The man is playing the instrument,4.4,ENTAILMENT
+5851,A woman is boiling noodles in water,Noodles are being boiled in water by a woman,4.8,ENTAILMENT
+5853,Someone is stirring noodles in the water,Someone is stirring food in the water,4.5,ENTAILMENT
+5855,A woman is boiling noodles in water,Someone is stirring food in the water,3.6,ENTAILMENT
+5860,The women are singing and dancing,The persons are singing and dancing,4.5,ENTAILMENT
+5864,Two women are dancing and singing in front of many people,The women are singing and dancing,4.5,ENTAILMENT
+5874,A lemur is biting a person's finger,An animal is biting someone's finger,4.4,ENTAILMENT
+5875,An animal is biting a person's finger,An animal is biting someone's finger,5.0,ENTAILMENT
+5882,A skateboarder is doing acrobatics on a half pipe,A man is skateboarding on a half pipe,3.9,ENTAILMENT
+5886,A skateboarder is doing tricks on a half pipe,A man is skateboarding on a half pipe,4.4,ENTAILMENT
+5887,A big dog is running on the ground,A dog is running on the ground,4.2,ENTAILMENT
+5898,A man and a woman are driving down the street in a jeep,Two persons are driving down the street in a jeep,4.5,ENTAILMENT
+5902,A man and a woman are driving down the street in a jeep,A man and a woman are driving down the road in a car,4.3,ENTAILMENT
+5905,Ingredients are being poured into a bowl by a woman,A woman is pouring ingredients into a bowl,4.815,ENTAILMENT
+5936,A man is putting vegetables into a pot,Someone is adding ingredients to a pot,4.3,ENTAILMENT
+5941,The man is standing on a rocky mountain and gray clouds are in the background,"The man is standing on a mountain, which is rocky, and gray clouds are in the background",4.7,ENTAILMENT
+5943,"A person with a back pack, who is topless, is in front of a pile of rocks and clouds are in the background",A topless person with a back pack is in front of a pile of rocks and clouds are in the background,5.0,ENTAILMENT
+5952,The dog is catching a ball,A dog is catching a ball,5.0,ENTAILMENT
+5960,A dog is chasing a ball through dirt,A dog is catching a ball,3.4,ENTAILMENT
+5964,"A child, who has blond hair, is holding a yellow bottle",A blond child is holding a yellow bottle,4.9,ENTAILMENT
+5975,The man in a hat suited for cowboys is walking through a market and is putting a hand in his pocket,The man in a cowboy hat is walking through a market and is putting a hand in his pocket,4.8,ENTAILMENT
+5977,The man in a hat suited for cowboys is walking through a market and is putting a hand in his pocket,A man in a hat is walking through a store,3.9,ENTAILMENT
+5983,A large white crane is flying near the water,"A crane, which is large and white, is flying near the water",4.9,ENTAILMENT
+5996,A dog with golden fur is in the water,A dog with a golden coat is in the water,4.9,ENTAILMENT
+6006,The girl is carrying a sign and a group of people is following her,The girl is carrying a sign and is being followed by a group of people,4.9,ENTAILMENT
+6014,One man in a big city is holding up a sign and begging for money,A man in a big city is holding a sign and begging for money,5.0,ENTAILMENT
+6017,A homeless man is holding up a sign and is begging for money,A homeless man is holding up a sign and is pitifully begging for money,4.9,ENTAILMENT
+6027,A dog is chasing the tail of an animal in the grass,The tail of an animal is being chasing by a dog in the grass,4.9,ENTAILMENT
+6045,A woman is looking curiously at a man,A man is being curiously looked at by a woman,4.4,ENTAILMENT
+6054,The little dog is grabbing the bedroom slipper with its mouth funnily,The little dog is grabbing the bedroom slipper with its mouth,4.8,ENTAILMENT
+6056,A brown dog is looking closely at a brown and white dog,A brown dog is staring attentively at a brown and white dog,4.8,ENTAILMENT
+6065,A person in a blue jacket is jumping off of a tall cement wall,A person in a blue colored jacket is jumping off of a tall cement wall,4.9,ENTAILMENT
+6080,The woman in jeans is sitting on the saddle of a horse,A person wearing jeans is sitting on top of a horse saddle,4.3,ENTAILMENT
+6082,A woman in jeans is sitting on the saddle of a horse,A person wearing jeans is sitting on top of a horse saddle,4.3,ENTAILMENT
+6083,The brown dog and the red dog are frolicking on the beach,A brown dog and a red dog are frolicking on the beach,4.9,ENTAILMENT
+6085,The brown dogs are playfully fighting on the sandy beach,The brown dogs are playfully fighting on the sandy shore,4.8,ENTAILMENT
+6092,The man is standing steadily next to a birdcage,The man is standing next to a bird cage,4.5,ENTAILMENT
+6096,A man is standing beside a birdcage which is large and colorful,The man is standing next to a bird cage,4.6,ENTAILMENT
+6101,One brown and black dog is running through the leaves,A brown and black dog is running through the leaves,4.8,ENTAILMENT
+6104,A dog in a colored coat is running swiftly across the yard,A dog in a colored coat is running across the yard,4.3,ENTAILMENT
+6123,A boy wearing red shorts is jumping into a paddling pool,A kid wearing red shorts is jumping into a paddling pool,4.6,ENTAILMENT
+6135,A group of racing dogs is wearing striped uniforms and is running down a track,A group of dogs bred for racing is wearing striped uniforms and is running down a track,4.7,ENTAILMENT
+6145,Two people are standing in the ocean and watching the sunset,Two people are standing in the ocean and looking at the sunset,5.0,ENTAILMENT
+6147,Two people are standing in the ocean and looking at the sunset,Two people are wading through the water,3.3,ENTAILMENT
+6152,A race car driver is standing up and is fiercely pointing his hand at the sky,A race car driver is standing up and pointing his hand at the sky,4.6,ENTAILMENT
+6154,The person in the blue jacket is wearing a colorful helmet,A person in a blue jacket is wearing a colorful helmet,5.0,ENTAILMENT
+6161,A boy and a girl in swimsuits are wearing arm floats,A boy and a girl in swimsuits are wearing floats for their arms,4.9,ENTAILMENT
+6170,A woman in a yellow dyed shirt is surfing on a pink surfboard,A woman in a yellow shirt is surfing on a pink surfboard,4.6,ENTAILMENT
+6179,A woman in a yellow dyed shirt is surfing on a pink surfboard,A surfer is riding the wave,3.5,ENTAILMENT
+6183,Four people are sitting on a low cement ledge,Some people are sitting on a low cement ledge,4.5,ENTAILMENT
+6185,The group of people is sitting on a ledge which is rocky and a scenic view is behind them,The group of people is sitting on a rocky ledge and a scenic view is behind them,5.0,ENTAILMENT
+6194,A group of Asian girls are standing together,The group of Asian girls are standing together,4.9,ENTAILMENT
+6195,A group of Asian girls are standing by themselves,A group of Asian girls are standing together,3.7,ENTAILMENT
+6212,A man is sitting peacefully on a boat in front of the sunset near a flag,"A man is sitting on a boat in font of the sunset, near a flag",4.3,ENTAILMENT
+6214,A man is on a ship in front of the sunset,A man is on a boat in front of the sunset,4.6,ENTAILMENT
+6218,A man is sitting peacefully on a boat in front of the sunset near a flag,A man is on a boat in front of the sunset,4.5,ENTAILMENT
+6232,A big dog and a small white dog are playing together,A big dog and a small dog with a white coat are playing together,4.5,ENTAILMENT
+6239,"A dog, which is brown, is jumping in the air",A brown dog is jumping in the air,4.9,ENTAILMENT
+6241,A malnourished looking dog is standing on its hind legs and preparing to jump,The malnourished looking dog is standing on its hind legs and is preparing to jump,5.0,ENTAILMENT
+6248,The cop is sitting on a police bike,The cop is sitting on a police bicycle,4.8,ENTAILMENT
+6250,A policeman is sitting tiredly on a motorcycle,A policeman is sitting on a motorcycle,4.6,ENTAILMENT
+6253,A policeman is sitting tiredly on a motorcycle,The cop is sitting on a police bike,4.1,ENTAILMENT
+6258,A policeman is sitting on a motorcycle,The cop is sitting on a police bike,4.2,ENTAILMENT
+6259,Two women are wearing bikinis on the sandy beach,Two women are wearing bikinis on the beach which is sandy,4.9,ENTAILMENT
+6267,Two women are wearing bikinis and are walking on the sand,Two women are wearing bikinis on the sandy beach,4.3,ENTAILMENT
+6286,A black dog is hanging out in the grass and running with its tongue out,A black dog is running in the grass,4.8,ENTAILMENT
+6288,"The cheerleaders are parading and wearing uniforms which are black, pink and white","The cheerleaders are parading and wearing black, pink and white uniforms",4.8,ENTAILMENT
+6290,A large group of cheerleaders is walking in a parade,Many cheerleaders are walking in a parade,4.8,ENTAILMENT
+6297,The man is sitting outside under a purple umbrella,The man is sitting outdoors under a purple umbrella,5.0,ENTAILMENT
+6299,A shoeless woman is sitting on a blanket under a lavender umbrella,"A woman, who is shoeless, is sitting on a blanket under a lavender umbrella",4.8,ENTAILMENT
+6306,The woman is playing with two young boys at a park,A woman is playing with two young boys at a park,5.0,ENTAILMENT
+6308,A lady is standing near three children,A woman is standing near three children,4.9,ENTAILMENT
+6317,A tan dog is running through the snow,"A dog, which is tan, is running through the snow",4.9,ENTAILMENT
+6319,A yellow dog is running on white snow on a sunny day,"A dog, which is tan, is running through the snow",3.8,ENTAILMENT
+6327,The little girl in a pink shirt is running under a tree in the desert,A little girl in a pink shirt is running under a tree in the desert,4.9,ENTAILMENT
+6335,The white dog wearing reindeer ears is close to a brown dog,The white dog wearing reindeer ears is near a brown dog,4.9,ENTAILMENT
+6338,A white dog is wearing a Christmas reindeer headband and is playing with a brown dog in the grass,A white dog is wearing a Christmas reindeer headband and is playing with a dog with a brown coat in the grass,4.5,ENTAILMENT
+6345,A white dog is wearing a Christmas reindeer headband and is playing with a brown dog in the grass,The white dog wearing reindeer ears is near a brown dog,4.4,ENTAILMENT
+6346,"A child, who is young, is riding a bike on a rough dirt path",A young child is riding a bike on a rough dirt path,4.9,ENTAILMENT
+6348,The young boy is riding a dirt bike through the mud,A young boy is riding a dirt bike through the mud,4.9,ENTAILMENT
+6357,The woman in a red costume is leaning against a wall made of bricks and playing an instrument,The woman in a red costume is leaning against a brick wall and playing an instrument,4.8,ENTAILMENT
+6359,The woman in a red costume is leaning against a wall made of bricks and playing an instrument,A woman in a red dress is playing an instrument,4.0,ENTAILMENT
+6366,A young child is wearing a white coat and playing a game,"A child, who is young, is wearing a white coat and playing a game",4.9,ENTAILMENT
+6375,The man is wearing a wetsuit and is riding a surfboard,The person is wearing a wetsuit and is riding a surfboard,4.5,ENTAILMENT
+6377,A surfer is leaning on a surfboard,The surfer is leaning on a surfboard,5.0,ENTAILMENT
+6386,A waterfall is flowing calmly into a shallow pool,A waterfall is flowing into a shallow pool,4.5,ENTAILMENT
+6395,A dog is herding a group of white sheep on a dusty farm,A dog is herding a pack of white sheep on a dusty farm,5.0,ENTAILMENT
+6397,A sheepdog is grouping a herd of sheep,The sheepdog is grouping a herd of sheep,5.0,ENTAILMENT
+6404,"The male, who is dark skinned, is standing on one hand in front of a yellow building",The dark skinned male is standing on one hand in front of a yellow building,5.0,ENTAILMENT
+6407,A black man is skillfully break dancing on the pavement,A black man is break dancing on the pavement,4.7,ENTAILMENT
+6417,"A person who rides bikes, in a black and red uniform, is standing on a dirt bike",A bike rider in a black and red uniform is standing on a dirt bike,4.8,ENTAILMENT
+6426,A man in a purple suit is standing by a purple case and is playing a guitar,A man in a purple colored suit is standing by a purple case and is playing a guitar,4.9,ENTAILMENT
+6448,The little boy is wearing a yellow tank top and is laughing,A little boy is wearing a yellow tank top and is laughing,5.0,ENTAILMENT
+6454,"A small boy in a shirt, which is yellow, is laughing on the beach",A little boy is wearing a yellow tank top and is laughing,4.265,ENTAILMENT
+6468,A dog with really long hair and a red vest is running in the grass,A dog with long hair and a red vest is running in the grass,4.7,ENTAILMENT
+6470,The dog in the dyed red vest is running in the field,The dog in the red vest is running in the field,4.5,ENTAILMENT
+6477,A person is standing in a vast field of glacial ice,One person is standing in a vast field of glacial ice,4.8,ENTAILMENT
+6488,A woman is swiftly snowboarding down an incline and another woman is standing behind her,A woman is snowboarding down an incline and another woman is standing behind her,4.9,ENTAILMENT
+6495,The man is taking a picture of himself and another guy,A picture of himself and another guy is being taken by the man,4.4,ENTAILMENT
+6497,A man is holding up an electronic device,A person is holding up an electronic device,4.5,ENTAILMENT
+6500,The man is taking a picture of himself and another guy,A person is holding up an electronic device,3.1,ENTAILMENT
+6506,A little black dog is chasing a little brown dog,"A dog, which is little and black, is chasing a little brown dog",4.8,ENTAILMENT
+6508,The brown dog and the black dog are in the grass,A brown dog and a black dog are in the grass,4.9,ENTAILMENT
+6543,The goal is being guarded by a hockey player in a yellow jersey,The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal,4.9,ENTAILMENT
+6545,The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal,A hockey player in a yellow jersey is guarding the goal,4.6,ENTAILMENT
+6546,"A child, who looks young, is standing in front of some trees",A young child is standing in front of some trees,4.9,ENTAILMENT
+6548,The small boy is standing in the forest,A small boy is standing in the forest,5.0,ENTAILMENT
+6550,The small boy is standing in the forest,A young child is standing in front of some trees,4.0,ENTAILMENT
+6555,Two people are looking at a statue made of gold,Two people are looking at a gold statue,4.5,ENTAILMENT
+6557,Two young men are cheerfully playing outside near a golden statue,Two young men are playing outside near a golden statue,4.4,ENTAILMENT
+6566,The woman is wearing a blue helmet and is riding a bicycle in a parking lot,A woman is wearing a blue helmet and is riding a bicycle in a parking lot,5.0,ENTAILMENT
+6575,"A pet dog is standing on the bank and is looking at another dog, which is brown, in the pond",A pet dog is standing on the bank and is looking at another brown dog in the pond,4.7,ENTAILMENT
+6584,A young female is dancing,A young girl is dancing,4.7,ENTAILMENT
+6593,A bee is clinging to a yellow flower,A yellow flower is being clung to by a bee,4.6,ENTAILMENT
+6595,The small bee is landing on a bunch of yellow flowers,A small bee is landing on a bunch of yellow flowers,4.9,ENTAILMENT
+6604,Four people are difficultly walking with difficulty across thick snow and the sun is setting,Four people are walking across thick snow and the sun is setting,4.6,ENTAILMENT
+6620,A tan dog is running through the brush,"A dog, which is tan, is running through the brush",5.0,ENTAILMENT
+6632,A hurdle is being leapt by a horse that has a rider on its back,A horse is leaping a hurdle and has a rider on its back,4.9,ENTAILMENT
+6640,Some football players in red and white are jumping and hugging,Football players in red and white are jumping and hugging each other,4.8,ENTAILMENT
+6669,A group of students in uniforms is listening attentively at the front of the class,Some students in uniforms are listening attentively at the front of the class,4.8,ENTAILMENT
+6671,A classroom full of students is looking in the same direction inside a bamboo structure,A classroom full of students is looking attentively in the same direction inside a bamboo structure,4.8,ENTAILMENT
+6678,A boy is jumping off a platform and two other boys are standing and watching,A boy is jumping off a platform and two other boys are standing and staring at him,4.8,ENTAILMENT
+6687,A group of kids is playing on a structure which is colorful,A group of kids is playing on a colorful structure,5.0,ENTAILMENT
+6695,"Four middle eastern children, three girls and one boy, are climbing on the grotto with a pink interior",A group of kids is playing on a colorful structure,3.8,ENTAILMENT
+6696,A group of people is sitting relaxed on both sides of a red stone monument,A group of people is sitting on both sides of a red stone structure,4.3,ENTAILMENT
+6698,The group of people is sitting on the ground outside a monument,Some people are sitting on the ground outside a monument,4.9,ENTAILMENT
+6714,The black bird is sitting comfortably in a leafless tree,The black bird is sitting in a leafless tree,4.9,ENTAILMENT
+6725,A child in orange is playing outdoors with a snowball,A kid in orange is playing outside with a snowball,4.8,ENTAILMENT
+6731,A child is making a snow ball,A child in orange is playing outdoors with a snowball,4.4,ENTAILMENT
+6736,The people are sitting aimlessly on a bench in front of a restaurant,The people are sitting on a bench in front of a restaurant,4.4,ENTAILMENT
+6745,Two people are sitting in lawn chairs and are reading books,Some people are sitting in lawn chairs and are reading books,4.65,ENTAILMENT
+6747,Two people in two chairs are reading pleasantly,Two people in two chairs are reading,4.5,ENTAILMENT
+6754,The back of a small black dog is being sniffed by the brown dog,The brown dog is sniffing the back of a small black dog,4.9,ENTAILMENT
+6766,The men in brown shorts are walking on the rocks beside a river,The man in brown colored shorts is walking on the rocks beside a river,4.3,ENTAILMENT
+6804,A man is wearing a sports uniform and is running down the field,A sports uniform is being worn by a man who is running down the field,4.9,ENTAILMENT
+6812,A man on a bicycle is riding on the beach,A man on a bike is riding on the shore,4.6,ENTAILMENT
+6814,One person is riding a bicycle in the sand beside the ocean,A person is riding a bicycle in the sand beside the ocean,4.7,ENTAILMENT
+6819,There is no man on a bicycle riding on the beach,A person is riding a bicycle in the sand beside the ocean,3.9,ENTAILMENT
+6824,A seabird is slowly flying over some rocks,A seabird is flying over some rocks,4.7,ENTAILMENT
+6834,A little boy is running on the ground and playing with a little girl,The little boy is running on the ground and playing with a little girl,4.8,ENTAILMENT
+6843,A daughter is being pushed by her father on a go-kart and another girl is watching,A father is pushing his daughter on a go-kart and another girl is watching,4.5,ENTAILMENT
+6863,A brown dog is running through the grass which is tall and green,A brown dog is running through tall green grass,5.0,ENTAILMENT
+6865,A brown dog is running through the grass which is tall and green,A golden dog is running through a field of tall grass,4.3,ENTAILMENT
+6870,Two dogs are cheerfully playing on the beach,Two dogs are playing on the beach,4.5,ENTAILMENT
+6879,The large brown dog is running outdoors in the dirt,The large brown dog is running outside in the dirt,4.9,ENTAILMENT
+6890,A girl is jumping off a rock and another is standing on it,One girl is jumping off a rock and another is standing on it,4.8,ENTAILMENT
+6897,The man with brown hair is wearing sunglasses and is sitting listlessly at a table with cans of soda and other drinks,The man with brown hair is wearing sunglasses and is sitting at a table with cans of soda and other drinks,4.4,ENTAILMENT
+6899,A young man with brown hair and shades is sitting in front of some cans of soda,A young man with brown hair and sunglasses is sitting in front of some cans of soda,5.0,ENTAILMENT
+6903,The man with brown hair is wearing sunglasses and is sitting listlessly at a table with cans of soda and other drinks,A young man with brown hair and sunglasses is sitting in front of some cans of soda,4.2,ENTAILMENT
+6918,A bearded man is standing by a shopping cart and is holding a cardboard sign,One bearded man is standing by a shopping cart and is holding a cardboard sign,4.9,ENTAILMENT
+6946,"A girl, who is little, with blond hair is smiling and sitting on a swing",A little girl with blond hair is smiling and sitting on a swing,4.8,ENTAILMENT
+6948,A blond kid in green is sitting on a swing,A blonde boy in green is sitting on a swing,4.8,ENTAILMENT
+6957,Music is being performed by four people outdoors,Four people are performing music outdoors,4.9,ENTAILMENT
+6968,A man is participating in a bmx race,A man is participating in a race for bmxs,4.7,ENTAILMENT
+6970,A man in a red uniform is swiftly making a jump in a dirt bike race,A man in a red uniform is making a jump in a dirt bike race,4.4,ENTAILMENT
+6979,A happy family is posing by the fireplace,"A family, which looks happy, is posing by the fireplace",4.5,ENTAILMENT
+6981,The family is posing by a mantel and a Christmas tree,A family is posing by the mantel and the Christmas tree,5.0,ENTAILMENT
+6997,An opponent is tackling a soccer player,A soccer player is being tackled by his opponent,4.9,ENTAILMENT
+7006,"A dog, which is white, is standing on fallen leaves",A white dog is standing on fallen leaves,4.7,ENTAILMENT
+7008,A white dog is standing on the leaves on the ground,One white dog is standing on the leaves on the ground,5.0,ENTAILMENT
+7026,The boy and girl are playing on the outdoor gym,A boy and a girl are playing on the outdoor gym,5.0,ENTAILMENT
+7028,Some children are playing on a playground,Some kids are playing on a playground,4.9,ENTAILMENT
+7035,The motocross rider is wearing blue and black pants,Blue and black pants are being worn by the motocross rider,5.0,ENTAILMENT
+7061,A man is drinking orange juice and walking on a sunny day,A person is drinking orange juice and walking,4.4,ENTAILMENT
+7063,A man is drinking orange juice and walking on a sunny day,A man is drinking orange juice and walking,4.3,ENTAILMENT
+7066,A man on inline skates is skating at a skate park,A man on inline skates is skating at a park built for skating,4.7,ENTAILMENT
+7082,The crowd is watching a football game,A football game is being watched by the crowd,5.0,ENTAILMENT
+7084,The crowd is watching the football at the game,The crowd is watching a football game,4.4,ENTAILMENT
+7085,A group of people playing football is running in the field,A group of football players is running in the field,4.8,ENTAILMENT
+7099,An oriental man and two women are facing a camera,The group of people is standing together and looking at the camera,3.8,ENTAILMENT
+7101,An oriental man and two women are facing a camera,A group of people is standing together and looking at the camera,4.0,ENTAILMENT
+7104,A small girl is riding in a toy car,The small girl is riding in the toy car,4.9,ENTAILMENT
+7121,A child in a red outfit is jumping on a trampoline,A little boy in red clothes is jumping into the air,4.0,ENTAILMENT
+7124,A brown dog and a black dog are frolicking in the sand,A brown dog and a black dog are playing in the sand,4.5,ENTAILMENT
+7126,A brown dog and a black dog are frolicking in the sand,A black dog is playing with a brown dog on the sand,4.4,ENTAILMENT
+7138,A woman and three men are posing motionlessly for a photo,Three men and a woman are posing for a picture,4.5,ENTAILMENT
+7145,A wet boy is cheerfully jumping around on dirty and wet grass,A wet boy is jumping around on dirty and wet grass,4.9,ENTAILMENT
+7153,A black dog is walking through some tall grass,The black dog is walking through the tall grass,4.9,ENTAILMENT
+7155,The black dog is sprinting through the grass,The black dog is running through the grass,4.5,ENTAILMENT
+7165,A dog is standing with its two front paws on a rock in a field,The dog is standing with its two front paws on a rock in the field,5.0,ENTAILMENT
+7213,A brown dog is running breathlessly across the yard with a toy in its mouth,A brown dog is running across the yard with a toy in its mouth,4.5,ENTAILMENT
+7222,The person with the green shirt is jumping high over the grass,A person with a green shirt is jumping high over the grass,4.9,ENTAILMENT
+7242,A brown and white dog is jumping in the air with a tennis ball in its mouth,A dog is caught mid air with a ball,3.6,ENTAILMENT
+7246,A woman is speaking loudly on her cell phone and is keeping a purse and a yellow bag on the near ledge,A woman is speaking on her cell phone and is keeping a purse and a yellow bag on the near ledge,4.7,ENTAILMENT
+7268,A bird is fiercely flapping its wings on the water,A bird is flapping its wings on the water,4.7,ENTAILMENT
+7274,A brown duck with a green head is flapping its wings in the water,A bird is flapping its wings on the water,4.3,ENTAILMENT
+7277,A furry brown dog is running through the grassy area,The furry brown dog is running through the grassy area,5.0,ENTAILMENT
+7304,The man in the straw hat is smoking a cigarette,A cigarette is being smoked by the man in the straw hat,5.0,ENTAILMENT
+7309,The man in the straw hat is smoking a cigarette,A person is wearing a straw hat and smoking a cigarette,4.7,ENTAILMENT
+7314,A man is wearing a straw hat and smoking a cigarette,The man in the straw hat is smoking a cigarette,5.0,ENTAILMENT
+7315,A man is wearing a blue checkered shirt and cheerfully riding a unicycle in the street,A man is wearing a blue checkered shirt and riding a unicycle in the street,4.6,ENTAILMENT
+7334,Three men are staring at the big green hills in the distance,Three men are looking into the distance,4.3,ENTAILMENT
+7335,A mountain is being climbed by two men,The men are climbing a mountain,4.7,ENTAILMENT
+7346,Two children are playing on a statue,Some children are playing on a statue,4.3,ENTAILMENT
+7359,A woman is looking at the view of a city,The woman is looking at the view of a city,4.9,ENTAILMENT
+7368,A man is standing on the top of the rocks with clouds behind them,One man is standing on the top of the rocks with clouds behind them,4.7,ENTAILMENT
+7386,A kid is smiling at the camera and swimming underwater,A child is smiling at the camera and swimming underwater,4.7,ENTAILMENT
+7388,A child is playfully swimming underwater in a pool,A child is swimming underwater in a pool,4.5,ENTAILMENT
+7397,A yellow kayak is being ridden by a man and a young boy,A man and a young boy are riding in a yellow kayak,4.9,ENTAILMENT
+7404,An American footballer is wearing the red and white strip,The American footballer is wearing a red and white strip,4.9,ENTAILMENT
+7416,A dog is chasing a ball on the grass,A ball is being chased by a dog on the grass,4.9,ENTAILMENT
+7418,A dog is chasing a ball in the grass,A ball is being chased by a dog on the grass,4.7,ENTAILMENT
+7420,A dog is running after a ball in the grass,A dog is chasing a ball on the grass,4.7,ENTAILMENT
+7423,A dog is chasing a ball on the grass,A dog is chasing a ball in the grass,4.9,ENTAILMENT
+7455,A man is performing a trick on a surfboard in the water,A person is performing a trick on a surfboard in the water,4.8,ENTAILMENT
+7457,A surfer is riding the wave,The wave is being ridden by a surfer,4.8,ENTAILMENT
+7459,A surfer is riding the wave,A rider is surfing the wave,4.6,ENTAILMENT
+7476,A man and two women in a darkened room are sitting at a table with candles,The group of people is sitting in a dim room,3.7,ENTAILMENT
+7479,Two guys are sitting around a table and holding beers in their hands,Two blokes are sitting around a table and holding beers in their hands,4.6,ENTAILMENT
+7486,The dog is chasing the ball,A dog is chasing a ball,5.0,ENTAILMENT
+7497,"The woman is wearing a red jacket and holding a glass in front of the man in a t-shirt, which is white",The woman is wearing a red jacket and holding a glass in front of the man in a white t-shirt,5.0,ENTAILMENT
+7506,Two brown dogs are playing with a frisbee in the water,Two brown dogs are playing with the frisbee in the water,4.9,ENTAILMENT
+7508,Two dogs are battling for a frisbee in a lake,Two dogs are fighting for a frisbee in a lake,4.9,ENTAILMENT
+7527,A hose is being held by a boy next to a man and another boy is watching,A boy is holding a hose next to a man and another boy is watching,4.9,ENTAILMENT
+7550,A young girl in a blue leotard is jumping in the air,The young girl in blue is jumping in the air,4.3,ENTAILMENT
+7554,A young girl in a blue leotard is jumping in the air,A young girl in blue is jumping in the air,4.2,ENTAILMENT
+7557,A small boy in a striped shirt is sliding out of a green tube,A little boy in a striped shirt is sliding out of a green tube,4.9,ENTAILMENT
+7572,A person on a bike is jumping through the air and the sun is flaring through the bike frame,The person is flying through the air on the bicycle,4.4,ENTAILMENT
+7580,The bunch of men are playing rugby on a muddy field,Rugby is being played by some men,4.5,ENTAILMENT
+7588,A person is looking at a bike designed for motocross that is lying on its side and another is racing by,A person is looking at a motocross bike that is lying on its side and another is racing by,4.5,ENTAILMENT
+7606,A young woman is getting a tattoo on her hand,A girl is getting a tattoo on her hand,4.5,ENTAILMENT
+7608,A tattoo is being drawn by the woman in the white sweater on the hand of a teenager,The woman in the white sweater is drawing a tattoo on the hand of a teenager,4.9,ENTAILMENT
+7618,A girl dressed in purple and blue is slowly walking beside her bike at night,A girl dressed in purple and blue is walking beside her bike at night,4.3,ENTAILMENT
+7639,A tree is falling over a bridge made over the river which a dog is crossing,A dog is crossing a river on a bridge made from a fallen tree,4.1,ENTAILMENT
+7642,The black dog is walking along a tree trunk bridge over water,A tree is falling over a bridge made over the river which a dog is crossing,3.6,ENTAILMENT
+7648,A little boy is proudly wearing a green soccer strip and is running on the grass,A little boy is wearing a green soccer strip and is running on the grass,4.5,ENTAILMENT
+7658,A young lady in a bikini is lying on the beach,A lady who looks young is lying on the beach,4.3,ENTAILMENT
+7666,The man is doing a handstand on the wet shore at the edge of the water at the beach,The man is doing a handstand on the wet sand at the edge of the water at the beach,4.5,ENTAILMENT
+7668,A man is performing a handstand on the beach,A handstand is being performed by a man on the beach,4.9,ENTAILMENT
+7670,The man is doing a handstand on the wet sand at the edge of the water at the beach,A handstand is being performed by a man on the beach,4.4,ENTAILMENT
+7672,The man is doing a handstand on the wet shore at the edge of the water at the beach,A man is performing a handstand on the beach,4.7,ENTAILMENT
+7675,A boy of young age is playing in the park with his mother,A young boy is playing in the park with his mother,4.9,ENTAILMENT
+7678,The boy in blue is running away from the woman in blue,A boy in blue is running away from a woman in blue,5.0,ENTAILMENT
+7688,A young boy is quickly jumping off a chair,A young boy is jumping off a chair,4.3,ENTAILMENT
+7692,One little boy with brown hair is jumping off of the brown chair onto the floor,A young boy is jumping off a chair,4.2,ENTAILMENT
+7712,The blonde girl with the pink top is smiling and wearing funny glasses with a large nose attached,The little girl is smiling and wearing a fake nose and glasses,4.3,ENTAILMENT
+7714,The blonde girl with the pink top is smiling and wearing funny glasses with a large nose attached,A little girl is smiling and wearing a fake nose and glasses,4.1,ENTAILMENT
+7724,A boy under an umbrella is being held by his father who is wearing a coat dyed in blue,A boy under an umbrella is being held by his father who is wearing a blue coat,4.6,ENTAILMENT
+7744,A light brown dog is running up a street,The light brown dog is running up a street,5.0,ENTAILMENT
+7747,A great dog is climbing a steep hill,A great dog is wildly climbing a steep hill,4.5,ENTAILMENT
+7755,A man and a woman are walking down the street of a city,A man and a woman are walking down a city street,4.8,ENTAILMENT
+7757,People are walking through a crowded street,People are walking through a street which is crowded,4.815,ENTAILMENT
+7768,A surfer is riding a big wave,The surfer is riding a big wave,5.0,ENTAILMENT
+7771,A surfer is riding a big wave across dark green water,A surfer is riding a big wave,4.3,ENTAILMENT
+7776,A surfer is riding a big wave across dark green water,The surfer is riding a big wave,4.4,ENTAILMENT
+7777,The shirtless man in striped shorts and sunglasses is standing near a man in a white shirt and sunglasses,The shirtless man in striped shorts and sunglasses is standing near a person in a white shirt and sunglasses,4.5,ENTAILMENT
+7779,The muscular black man is dancing and the man behind him is wearing green beads,The muscular man is dancing and the man behind him is wearing green beads,4.4,ENTAILMENT
+7804,A man is crouching and holding a camera,A person is crouching and holding a camera,4.6,ENTAILMENT
+7808,A man is squatting in brush and taking a photo,A man is crouching and holding a camera,3.7,ENTAILMENT
+7810,A man is squatting in brush and taking a photograph,A person is crouching and holding a camera,4.1,ENTAILMENT
+7813,Some dogs are playing in a river,Some dogs are playing in a stream,4.6,ENTAILMENT
+7822,A black dog is jumping from a cylindrical hay bale,A black dog is leaping from a cylindrical hay bale,4.9,ENTAILMENT
+7839,The brown dog is jumping in the air,A brown dog is jumping in the air,4.5,ENTAILMENT
+7849,Two adults are standing on a scooter in a field of yellow flowers,Two adults are standing on a scooter in a field of flowers,4.5,ENTAILMENT
+7851,Two people wearing helmets are riding over the yellow and white flowers,Two people wearing helmets are driving over the yellow and white flowers,4.8,ENTAILMENT
+7867,A man in blue is riding a horse on a dirt road,A man in blue is riding a animal on a dirt road,4.5,ENTAILMENT
+7878,Three people are driving ATVs,ATVs are being driven by three people,5.0,ENTAILMENT
+7884,Three people are driving four wheel ATVs in a field,ATVs are being driven by three people,4.6,ENTAILMENT
+7887,Two white dogs and one brown dog are chasing a ball,Two white dogs and one brown dog are chasing a toy,4.5,ENTAILMENT
+7893,Two white dogs are playing with a brown dog and a ball,Two white dogs and one brown dog are chasing a toy,4.3,ENTAILMENT
+7896,A white race car is driving through a puddle,A white racing vehicle is driving through a puddle,4.635,ENTAILMENT
+7898,The white rally car is throwing mud into the air and is approaching a bend in the track,A white rally car is throwing mud into the air and is approaching a bend in the track,4.9,ENTAILMENT
+7902,A white rally car is throwing mud into the air and is approaching a bend in the track,A white racing vehicle is driving through a puddle,4.2,ENTAILMENT
+7925,Four athletes are with a man in a crowded stadium,Four athletes are with a person in a crowded stadium,4.7,ENTAILMENT
+7927,A person in a pink jacket is running onto the field,A person in pink is running onto the field,4.4,ENTAILMENT
+7934,A fur scarf is being held by an Asian woman,An Asian woman is holding a fur scarf,5.0,ENTAILMENT
+7936,A woman dressed in elegant clothing is inside a crowd of people and is looking down,An elegant woman is inside a crowd of people and is looking down,4.8,ENTAILMENT
+7954,A basketball player is on the court floor and another one is grabbing the ball,A basketball player is on the court floor and the ball is being grabbed by another one,4.9,ENTAILMENT
+7964,A black sheep is standing near three white dogs,A black sheep is standing close to three white dogs,4.8,ENTAILMENT
+7972,Two poodles are in the snow and one is jumping high,Two poodles are in the snow and one is jumping,4.4,ENTAILMENT
+7981,The man surrounded by photographers is wearing a gray suit and glasses,The man surrounded by men with a camera is wearing a gray suit and glasses,4.4,ENTAILMENT
+7989,The man surrounded by men with a camera is wearing a gray suit and glasses,A man in a suit is being surrounded by photographers,4.0,ENTAILMENT
+8010,A man dressed in black and white is holding up the tennis racket and is waiting for the ball,A player dressed in black and white is holding up the tennis racket and is waiting for the ball,4.4,ENTAILMENT
+8012,A tennis player in mid game is holding a racquet,A racquet is being held by a tennis player in mid game,4.8,ENTAILMENT
+8021,A brown and white dog is playing on the grass,A brown and white dog is playing on the lawn,4.7,ENTAILMENT
+8028,A tan skinned kid is looking at the camera,A tan skinned child is looking at the camera,4.8,ENTAILMENT
+8037,A young boy in the blue shirt is jumping into the water,The young boy in the blue shirt is jumping into the water,4.9,ENTAILMENT
+8039,A young boy is diving into a still lake,A young boy is jumping into a still lake,5.0,ENTAILMENT
+8055,A young girl is sitting in a swimsuit,A young girl is sitting in swimming gear,4.5,ENTAILMENT
+8064,A dog is running on a snowy road,A dog is running on a snowy path,4.5,ENTAILMENT
+8068,A brown dog is running through a snowy path,A dog is running on a snowy path,4.5,ENTAILMENT
+8069,A white dog is running through a snowy trail,A dog is running on a snowy path,4.3,ENTAILMENT
+8072,A brown dog is running through a snowy trail,A dog is running on a snowy path,4.0,ENTAILMENT
+8073,Two boys in white outfits and red protective gear are sparring on a mat,Two children in white outfits and red protective gear are sparring on a mat,4.3,ENTAILMENT
+8084,A black and white dog is playing with a broken volleyball,A black and white dog is playing with a broken ball,4.5,ENTAILMENT
+8090,A black and white dog is playing with a tattered volleyball in a brown field,A black and white dog is playing with a broken volleyball,4.3,ENTAILMENT
+8091,A young boy in a helmet is riding a bike on the road,A bike is ridden on the road by a young boy in a helmet ,4.9,ENTAILMENT
+8093,The little boy is riding a bicycle in a race,A bicycle is being ridden by the little boy in a race,4.8,ENTAILMENT
+8109,Two boys and a man are playing games at an arcade,Two kids and a man are playing games at an arcade,4.6,ENTAILMENT
+8120,Some cheerleaders are taking a break,Some cheerleaders are relaxing,4.45,ENTAILMENT
+8127,A group of people is holding drinks and pointing at the camera,Drinks are being held by people pointing at the camera,4.8,ENTAILMENT
+8129,Several young people are posing for a photo and holding beers,Several young people are posing for a photo and holding drinks,4.5,ENTAILMENT
+8136,A girl with red hair and red eyebrows is talking,A girl with red hair and red eyebrows is in midspeech,4.6,ENTAILMENT
+8147,The girl in blue is chasing the base runner with a number on the jersey,The girl in blue is chasing the player with a number on the jersey,4.4,ENTAILMENT
+8156,A man in a purple hat is climbing a rocky wall with bare hands,A rocky wall is climbed by a man in a purple hat with bare hands,4.9,ENTAILMENT
+8158,A rocky wall is climbed by a man in a purple hat with bare hands,The young man is rock climbing,4.2,ENTAILMENT
+8165,A blond woman is sitting on the roof of a yellow vehicle and two people are inside,A woman with blond hair is sitting on the roof of a yellow vehicle and two people are inside,4.5,ENTAILMENT
+8190,Adults and children standing and playing in front of steps near a wooded area,Adults and children standing and playing in front of a stair near a wooded area,4.8,ENTAILMENT
+8192,The adults and children are being grouped near an outdoor seating arrangement,The adults and children are being gathered near an outdoor seating arrangement,5.0,ENTAILMENT
+8201,A woman is looking down and is wearing a wedding dress,A woman is looking down and is wearing a wedding veil,4.5,ENTAILMENT
+8206,A bride with a black veil is looking down,A woman is looking down and is wearing a wedding veil,3.8,ENTAILMENT
+8210,A girl has black and orange patches on the cheeks,A girl has colored patches on the cheeks,4.2,ENTAILMENT
+8217,Two large dogs are frolicking in a grassy field,Two large dogs are frolicking in a field,4.7,ENTAILMENT
+8219,Two dogs are running through high grass,Two animals are running through high grass,4.8,ENTAILMENT
+8228,A black dog is walking along rocky terrain,A black dog is moving along rocky terrain,4.3,ENTAILMENT
+8230,A black dog is running across a rocky landscape,A black dog is moving along rocky terrain,4.3,ENTAILMENT
+8246,Some young dirt bikers are getting a dirt bike up a sandy hill,Some young bikers are getting a dirt bike up a sandy hill,4.4,ENTAILMENT
+8264,Pedestrians and cars are moving through a traffic jam in a big city,Pedestrians and cars are moving through a traffic jam in the big city,5.0,ENTAILMENT
+8266,Some people and vehicles are on a crowded street,Pedestrians and cars are moving through a traffic jam in the big city,3.8,ENTAILMENT
+8282,A man is sitting on the grass and drinking from a water bottle,A man is sitting on the lawn and drinking from a water bottle,4.8,ENTAILMENT
+8289,A dog is running on the sea shore,A dog is running on the beach,4.6,ENTAILMENT
+8300,A chubby faced boy is wearing sunglasses,A chubby faced boy is wearing dark glasses,4.5,ENTAILMENT
+8304,A chubby faced boy is wearing sunglasses,Sunglasses are being worn by a boy,4.5,ENTAILMENT
+8306,A chubby faced boy is wearing sunglasses,A boy is wearing sunglasses,4.3,ENTAILMENT
+8307,Children are being dressed in costumes and playing a game,Kids are being dressed in costumes and playing a game,4.9,ENTAILMENT
+8316,Dogs are racing on a track,Dogs are running on a track,4.7,ENTAILMENT
+8325,Two bmx bikers are jumping dirt ramps in front of the water,Two bmx bikers are jumping dirt ramps in front of a body of water,4.8,ENTAILMENT
+8327,Some bikers are doing acrobatics on a track near water and a skyline,Some bikers are getting airborne on a track near water and a skyline,4.2,ENTAILMENT
+8331,Two bmx bikers are jumping dirt ramps in front of the water,Some bikers are getting airborne on a track near water and a skyline,4.1,ENTAILMENT
+8336,A man is doing a skateboard trick on an outdoor park porch,A man is doing a skateboard trick on a park porch,4.8,ENTAILMENT
+8338,A man is doing a skateboard trick on a park porch,A man is doing a trick on a skateboard,4.4,ENTAILMENT
+8340,A man is doing a skateboard trick on an outdoor park porch,A person is doing a trick on a skateboard,4.3,ENTAILMENT
+8345,A man in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle,A racer in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle,4.6,ENTAILMENT
+8349,A racer in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle,A man in a motocross uniform is wearing a helmet and rides a red motorcycle,4.3,ENTAILMENT
+8352,People are sitting at square tables in a red room,People are sitting at tables in a red room,4.4,ENTAILMENT
+8363,A boy is jumping off the side of a water fountain made of stone in front of a building,A boy is jumping off the side of a stone water fountain in front of a building,4.6,ENTAILMENT
+8379,A girl in blue is sliding down a green slide,A girl in blue is sliding down a slide,4.7,ENTAILMENT
+8381,The young girl in blue is having fun on a slide,The young girl in blue is enjoying a slide,4.7,ENTAILMENT
+8388,A black man is walking next to a shop in a big city,A black man is walking next to a building in a big city,4.5,ENTAILMENT
+8406,A black dog is jumping off a dock into a pond,A black dog is jumping off a dock into water,4.5,ENTAILMENT
+8407,A black dog is jumping off a dock into a pond,A black dog is jumping on a dock into a pond,4.7,ENTAILMENT
+8412,A black dog is jumping off a dock into water,A black dog is jumping from a dock into the water,4.9,ENTAILMENT
+8417,A little girl is smiling and running out of the house,A little girl is smiling and running outside,4.4,ENTAILMENT
+8424,A skier in black is catching a tiny bit of air,A skier dressed in black is catching a tiny bit of air,4.9,ENTAILMENT
+8435,A child is splashing in a pool for children and other kids are playing in the background,A child is splashing in a pool for children and other children are playing in the background,4.9,ENTAILMENT
+8444,Two men are looking out and binoculars are being held by one of them,Two men are looking out and one is holding binoculars,4.9,ENTAILMENT
+8446,Two men are standing together and one is looking through binoculars,Two men are looking out and binoculars are being held by one of them,4.0,ENTAILMENT
+8453,A man on a motorcycle is turning around a corner,A man on a motorcycle is going around a corner,4.9,ENTAILMENT
+8455,A motorcyclist on a bike is leaning into a sharp corner,A man on a motorcycle is turning around a corner,4.5,ENTAILMENT
+8460,A man with a backwards hat is sitting on the ground,A person with a backwards hat is sitting on the ground,4.6,ENTAILMENT
+8462,A young man in a white shirt and gold and black hat is sitting with crossed legs,A young person in a white shirt and gold and black hat is sitting with crossed legs,4.7,ENTAILMENT
+8469,A young oriental girl is standing above the crowd and is playing with a pinwheel,A young oriental girl is standing above people and is playing with a pinwheel,4.7,ENTAILMENT
+8479,A young man on a bmx bicycle is jumping on a masonry pyramid,A young man on a bmx bicycle is jumping off a masonry pyramid,4.4,ENTAILMENT
+8484,A young man on a bmx bicycle is jumping off a pyramid,A bicyclist is jumping on a pyramid-shaped ramp,4.0,ENTAILMENT
+8486,A bicyclist is jumping on a pyramid-shaped ramp,A young man on a bmx bicycle is jumping off a masonry pyramid,4.2,ENTAILMENT
+8489,A man with no shirt is holding a football,A football is being held by a man with no shirt,5.0,ENTAILMENT
+8502,The man is going into the lake,The person is going into the water,4.3,ENTAILMENT
+8504,The man is going into the water,The person is going into the water,4.5,ENTAILMENT
+8514,Five people are standing in the grass with three dogs,Five people are standing in the grass with some dogs,4.4,ENTAILMENT
+8520,Five people are standing with three dogs in the green field beside the road,Five people are standing in the grass with some dogs,4.4,ENTAILMENT
+8525,A rainbow afghan is being held by a girl in gold and purple,A girl in gold and purple is holding a rainbow afghan,5.0,ENTAILMENT
+8532,A light brown dog is running in the water,A light brown dog is sprinting in the water,4.7,ENTAILMENT
+8541,The child is splashing water in a small blue pool,The child is splashing water in a pool,4.5,ENTAILMENT
+8543,A baby is splashing inside a blue paddling pool,A toddler is making a splash inside a blue paddling pool,4.4,ENTAILMENT
+8561,A man in a hat is standing outside of a green jeep,A man in a hat is standing outside of a green vehicle,4.5,ENTAILMENT
+8571,A large dog and a small dog are standing next to the kitchen counter and are investigating,A large dog and a small dog is standing on the kitchen counter and investigate,4.4,ENTAILMENT
+8581,A tan dog which is dirty is rolling in the dirt and looking right at the camera,A dog is rolling on the ground,4.3,ENTAILMENT
+8586,An Arabic man is wearing a white hat,A white hat is being worn by an Arabic man,4.9,ENTAILMENT
+8588,A man with a white hat and brown shirt is behind a woman in red and is looking to the left,A man with a white hat and brown shirt is behind a woman in red and is looking to the side,4.5,ENTAILMENT
+8597,Children are playing in a fountain that is spraying water from the ground,Children are playing in ground fountains,4.3,ENTAILMENT
+8606,A person on a yellow bike is airborne,A cyclist on a yellow bike is airborne,4.9,ENTAILMENT
+8608,A person on a yellow bike is airborne,A person on a yellow dirt bike is taking a jump,4.3,ENTAILMENT
+8610,A man on a yellow dirt bike is taking a jump,A cyclist on a yellow bike is airborne,4.5,ENTAILMENT
+8611,A person on a yellow clean bike is taking a jump,A cyclist on a yellow bike is airborne,4.4,ENTAILMENT
+8613,The bicycle is being ridden by a man wearing a beret on a recreation trail,A man is wearing a beret and is riding the bicycle on a recreation trail,5.0,ENTAILMENT
+8622,Five adults are sitting on stone steps,Five adults are sitting on steps made of stone,4.9,ENTAILMENT
+8624,People are sitting against a wall,People are sitting near a wall,4.1,ENTAILMENT
+8631,A man is rock climbing and a city and a bay are in the background,A person is rock climbing and a city and a bay are in the background,4.4,ENTAILMENT
+8651,People are grouping at a stand at the fair,A group of people is gathering at a stand at the fair,4.8,ENTAILMENT
+8669,A woman is marching with a pair of dogs,A woman is walking with a pair of dogs,4.4,ENTAILMENT
+8680,A man dressed in black is wearing inline skates and performing acrobatics on a rail,A man dressed in black is wearing inline skates and performing a trick on a rail,4.6,ENTAILMENT
+8689,Three children are running down a grassy hillside,Three children are running down a hillside covered by grass,4.9,ENTAILMENT
+8691,Three children are running down a hillside covered by grass,Three children are running down hill,4.3,ENTAILMENT
+8696,A black and orange bird is standing on the lawn,A black and orange bird is standing in the grass,4.6,ENTAILMENT
+8705,A shirtless man is posing with a girl who is hiking in a park,A shirtless person is posing with a girl who is hiking in a park,4.6,ENTAILMENT
+8709,A shirtless man is posing with a girl who is hiking in a park,A man without a shirt is posing with the arms spread near a woman,4.1,ENTAILMENT
+8716,Two white puppies are playing near a pool,Two white puppies are playing near water,4.4,ENTAILMENT
+8741,Three men are walking across a rope and wood bridge over a river,Three people are walking across a rope and wood bridge over a river,4.5,ENTAILMENT
+8743,People are crossing a rope bridge over a rocky stream,People are walking across a rope bridge over a rocky stream,4.9,ENTAILMENT
+8748,Three people are walking across a rope and steel bridge over a river,People are walking across a rope bridge over a rocky stream,3.6,ENTAILMENT
+8750,Four people are walking on a bridge over a river,Four people are walking on a bridge over a body of water,4.6,ENTAILMENT
+8759,A young boy is jumping into water,A young kid is jumping into water,4.9,ENTAILMENT
+8768,The young child is riding a three wheeled scooter down the sidewalk,A young child is riding a three wheeled scooter down the sidewalk,4.9,ENTAILMENT
+8777,Three men are sitting on a mountainside and looking at the view with a pair of binoculars,Three hikers are sitting on a mountainside and looking at the view with a pair of binoculars,4.4,ENTAILMENT
+8790,A young girl is jumping rope on a sidewalk near a parking garage,A girl is skipping rope on a sidewalk,4.1,ENTAILMENT
+8794,A girl is jumping rope on a sidewalk near a parking garage,A girl is skipping rope on a sidewalk,4.3,ENTAILMENT
+8801,People are sitting around a bonfire at night,Several people are sitting around a fire at night,4.3,ENTAILMENT
+8813,Two dogs are running through the park,Two animals are running through the park,4.5,ENTAILMENT
+8815,Two dogs are running quickly through the park,Two dogs are running quickly through a park,5.0,ENTAILMENT
+8822,A boy is speeding down a steep slide,A kid is speeding down a steep slide,4.8,ENTAILMENT
+8842,A brown and white dog with a brown and black bandanna is quickly running ,A brown and white dog with a brown and black bandanna is running very fast,4.9,ENTAILMENT
+8856,A black dog on a leash is walking in the water,The dog is on a leash and is walking in the water,4.3,ENTAILMENT
+8858,A red sled is being held by a little girl in a green coat and a boy walking in the snow,A little girl in a green coat and a boy holding a red sled are walking in the snow,4.2,ENTAILMENT
+8894,Two people are riding motorbikes,Motorbikes are being ridden by two people,4.9,ENTAILMENT
+8903,A man is leaning against a pole and is surrounded by people,A man is leaning against a pole and is surrounded,4.2,ENTAILMENT
+8907,A middle eastern man is standing against a lamp post near to other people,A man is leaning against a pole and is surrounded by people,3.7,ENTAILMENT
+8917,A man and a woman are sitting in front of an art gallery and are looking at a map,A couple is looking at a map,4.4,ENTAILMENT
+8918,A couple is looking at a street guide,A man and a woman are standing in front of an art gallery and are looking at a map,3.7,ENTAILMENT
+8932,Two males are standing on a cliff edge and one is jumping into the sea,Two males are standing on a cliff edge and one is jumping into the water,4.6,ENTAILMENT
+8934,One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water,Two males are standing on a cliff edge and one is jumping into the sea,3.9,ENTAILMENT
+8936,One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is diving into the water,Two males are standing on a cliff edge and one is jumping into the water,4.1,ENTAILMENT
+8941,A boy in blue shirt is looking at his hand near a stack of blocks on table,The boy in blue shirt is looking at his hand near the stack of blocks on table,4.9,ENTAILMENT
+8948,A woman in a bikini is pulling a dog on a leash at the seashore,A woman in a bikini is pulling a dog on a leash at the beach,4.6,ENTAILMENT
+8957,A small group of people are standing and two are sitting on the couch,A small group of people are standing and two are sitting on the sofa,4.8,ENTAILMENT
+8959,A group of five young adults are lounging in the room,A group of five young adults are lounging indoors,4.385,ENTAILMENT
+8966,The dog has its head inside a red and green gift bag,A dog has its head inside a red and green gift bag,5.0,ENTAILMENT
+8977,A cyclist is biking in a snowy forest in the dark,A cyclist is biking in a snowy forest at night,4.7,ENTAILMENT
+8996,A white hat is being worn by a boy which is running on the beach,A boy is wearing a white hat and is running on the beach,5.0,ENTAILMENT
+9006,A man in a black hat is reaching for a box,A person in a black hat is reaching for a box,4.6,ENTAILMENT
+9015,A young girl with a heart tank top is raising her hands as she is playing on a slide,A young girl with a heart tank top is raising her hands as she is sliding,4.7,ENTAILMENT
+9024,A brown dog is running after a black dog on a rocky shore,A brown dog is running after a dark dog on a rocky shore,4.6,ENTAILMENT
+9031,Two dogs are playing on a rocky beach,Two dogs are playing on a beach made of rocks,4.7,ENTAILMENT
+9033,A black dog is approaching a golden dog on pebbly beach,A black animal is approaching a golden dog on pebbly beach,4.5,ENTAILMENT
+9040,A large white dog is jumping in the air over an area covered by snow,A large white dog is jumping in the air over a snowy area,4.9,ENTAILMENT
+9044,A large white dog is jumping in the air over a snowy area,A large white animal is jumping up in the snow,4.3,ENTAILMENT
+9046,A large white dog is jumping in the air over an area covered by snow,A large white dog is jumping up in the snow,4.2,ENTAILMENT
+9051,A pair of kids are sticking out blue and green colored tongues,Two kids are sticking out blue and green colored tongues,4.8,ENTAILMENT
+9058,A dog is standing on the side of a mountain,A dog is standing on a mountain,4.1,ENTAILMENT
+9067,Two children are rolling in dirty water,Two children are rolling in muddy water,4.9,ENTAILMENT
+9078,A brown and black dog is looking upwards,A brown and black dog is pointing the nose upwards,4.9,ENTAILMENT
+9085,A large man is sitting in a military accessories shop,A large man is sitting in a military accessories store,5.0,ENTAILMENT
+9094,A grey dog is bouncing a soccer ball on its head in a grass field,A grey dog is bouncing a soccer ball on its head on a lawn,4.6,ENTAILMENT
+9096,A dog with a blue collar is playing with the ball in the garden,A dog with a blue collar is playing with the ball outside,4.4,ENTAILMENT
+9103,A young black child is standing on the edge of a body of water near some buckets,A young black child is waiting on the edge of a body of water near some buckets,4.9,ENTAILMENT
+9139,The snowboarder is jumping off the snow,A snowboarder is jumping off the snow,5.0,ENTAILMENT
+9141,The snowboarder is jumping off a snow covered hill,The snowboarder is jumping off a snowy hill,4.8,ENTAILMENT
+9147,The snowboarder is jumping off a snow covered hill,A snowboarder is jumping off the snow,4.165,ENTAILMENT
+9148,A lady is wearing a black dress and is carrying a white cross,A lady is dressed in black and is carrying a white cross,4.5,ENTAILMENT
+9150,A woman in a black dress is pulling a cart and is standing in front of two men who are seated on a park bench,A woman in a black dress is pulling a cart and is standing near two men who are seated on a park bench,4.6,ENTAILMENT
+9159,The boy is standing next to the opening of a fountain,A boy is standing next to the opening of a fountain,5.0,ENTAILMENT
+9177,A distant person with a blue backpack is hiking in rocky area,A distant person with a blue backpack is hiking area full of rocks,4.9,ENTAILMENT
+9181,A distant person with a blue backpack is hiking in rocky area,The person is walking,3.5,ENTAILMENT
+9183,A distant person with a blue backpack is hiking in rocky area,The person is hiking,3.8,ENTAILMENT
+9184,A ball is being chased by a yellow dog,A yellow dog is chasing a ball,4.8,ENTAILMENT
+9186,A dog is turning on the grass and pursuing a flying tennis ball,A dog is turning on the grass and pursuing a flying ball,4.7,ENTAILMENT
+9193,A woman in blue jeans is standing in front of a group of children beside a house made of stone,A woman in blue jeans is standing in front of a group of children beside a stone built house,4.8,ENTAILMENT
+9213,A man with no shirt is jumping over a log,A shirtless man is jumping over a log,4.9,ENTAILMENT
+9222,A dog is running with a volleyball,A dog is running with a ball,4.5,ENTAILMENT
+9233,A girl in a uniform is playing the flute with a band,A girl in a band is playing the flute,4.2,ENTAILMENT
+9235,A girl in a uniform is playing the flute with a marching band,A girl in a band is playing an instrument,4.065,ENTAILMENT
+9238,A man is standing at the wheel of a classic American car that has its door and trunk open,A person is standing at the wheel of a classic American car that has its door and trunk open,4.5,ENTAILMENT
+9240,The man in blue is posing for a picture next to a vehicle,The man in blue is posing for a picture next to a car,4.8,ENTAILMENT
+9247,Two people are sitting on a white bench,Two people are sitting on a bench,4.5,ENTAILMENT
+9249,The woman is sitting near a flower bed and is overlooking a tunnel,A woman is sitting near a flower bed and is overlooking a tunnel,4.8,ENTAILMENT
+9274,Two dogs and two people are walking in the woods,Two dogs and two people are walking in a wood,4.5,ENTAILMENT
+9285,A man is skiing down a hill and over a red obstacle,A man is skiing down a hill and jumping a red obstacle,4.4,ENTAILMENT
+9292,Two men are taking a break from construction,Two men are taking a break from work,4.1,ENTAILMENT
+9319,Three friends are making faces for the camera,Three friends are making faces for a photo,5.0,ENTAILMENT
+9330,Four people are walking along a city sidewalk and the one in the green hat is phoning someone,Four people are walking along a city sidewalk and the one in the green hat is talking on a cell phone,4.65,ENTAILMENT
+9338,Four people are walking along a city sidewalk and the one in the green hat is talking on a cell phone,A group of people is walking down the street and a person in a green hat is on the phone,4.7,ENTAILMENT
+9350,Three women are resting in a village,Three women are sitting in a village,4.5,ENTAILMENT
+9368,A man in a red jacket and khaki pants is walking through an American state,A person in a red jacket and khaki pants is walking through an American state,4.7,ENTAILMENT
+9375,The players is maneuvering for the soccer ball,The players is maneuvering for the ball,4.5,ENTAILMENT
+9377,A man in green is hitting a soccer ball and a man in purple and white is falling down,A man in green is kicking a soccer ball and a man in purple and white is falling down,4.4,ENTAILMENT
+9386,Two children are playing in the surf,Two children are playing,4.6,ENTAILMENT
+9393,A man is wearing a purple shirt and black leather chaps and is posing for the camera,A model is wearing a purple shirt and black leather chaps and is posing for the camera,4.4,ENTAILMENT
+9395,The man dressed in chaps made of leather and a purple shirt is standing in front of some onlookers,The man dressed in leather chaps and a purple shirt is standing in front of someone lookers,4.4,ENTAILMENT
+9402,Two dogs are running and trying to catch a soccer ball,Two dogs are running and trying to catch a ball,4.4,ENTAILMENT
+9413,Men in costumes are walking around in the street,People in costumes are walking around in the street,4.3,ENTAILMENT
+9426,"A dog is in an area full of sand, with the sand that is being stirred up into the air and several plants are in the background",A dog is in the sand that is blowing in the wind,3.765,ENTAILMENT
+9431,The black and white dog is running outdoors,A black and white dog is running outdoors,4.8,ENTAILMENT
+9435,The black and white dog is running in a field,The black and white dog is running outdoors,4.4,ENTAILMENT
+9437,The black and white dog is running in a green yard,The black and white dog is running outdoors,4.3,ENTAILMENT
+9438,A couple standing on the curb,A man and a woman are standing on the curb,4.3,ENTAILMENT
+9447,The dog is jumping in the shade of some trees,A dog is jumping in the shade of some trees,4.9,ENTAILMENT
+9467,A young boy is sitting in a bathing suit and waiting for the next race,A young swimmer is sitting in a bathing suit and waiting for the next race,4.8,ENTAILMENT
+9471,A young swimmer is sitting in a bathing suit and waiting for the next race,A kid is waiting wearing swim gear,3.515,ENTAILMENT
+9473,A young boy is sitting in a bathing suit and waiting for the next race,A kid is sitting wearing swim gear,4.4,ENTAILMENT
+9489,A cluster of four brown dogs are playing in a field of brown grass,Four dogs are playing in a area covered by grass,4.4,ENTAILMENT
+9493,A cluster of four brown dogs are playing in a field of brown grass,Four dogs are playing in a grassy area,4.2,ENTAILMENT
+9510,A brown puppy is gnawing a wooden post that is stuck into the ground,A brown puppy is biting a pole,4.2,ENTAILMENT
+9512,A woman is petting a dog near a stone trail,A woman is petting a dog near a stone path,4.9,ENTAILMENT
+9530,A white car and a yellow car are racing down the track,Two cars are racing down the track,4.5,ENTAILMENT
+9532,Two race cars are on a road in front of a grassy parking area,Two cars for racing are on a road in front of a grassy parking area,4.9,ENTAILMENT
+9541,A man on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up,A biker on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up,4.8,ENTAILMENT
+9554,A group of children in a church basement is playing maracas and tambourines,Tambourines are being played by a group of children,4.6,ENTAILMENT
+9556,A group of children in a church basement is playing maracas and tambourines,A group of children is playing tambourines,3.9,ENTAILMENT
+9557,A dog is running through the white snow,A dog is running through the snow,4.7,ENTAILMENT
+9561,The brown dog is running in the snow,A dog is running through the snow,4.6,ENTAILMENT
+9562,A black dog is running in the snow,A dog is running through the snow,4.5,ENTAILMENT
+9563,A brown dog is running in the snow,A dog is running through the white snow,4.3,ENTAILMENT
+9565,A brown dog is running in the snow,A dog is running through the snow,4.2,ENTAILMENT
+9572,An elderly woman is sitting on a bench and is wearing a gray jacket and black pants,An old person is sitting on a bench,4.0,ENTAILMENT
+9577,A small black and white dog is carrying a stick and is swimming,A small black and white dog is biting a stick and is swimming,4.3,ENTAILMENT
+9604,A black and white dog is jumping for a ball,The black and white dog is jumping for the ball,4.9,ENTAILMENT
+9615,People are riding two camels at the beach,People are riding two camels on the sand,4.9,ENTAILMENT
+9624,A barefoot man in pajamas is looking toward the stars and is walking on the tennis court,A barefoot man in pajamas is looking toward the sky and is walking on the tennis court,4.6,ENTAILMENT
+9631,The man is standing in a lake near a waterfall,The man is standing in a body of water near a waterfall,4.7,ENTAILMENT
+9636,The man is standing in the water at the base of a waterfall,The man is standing in a body of water near a waterfall,4.3,ENTAILMENT
+9641,A man is standing in the water at the base of a waterfall,The man is standing in a body of water near a waterfall,4.2,ENTAILMENT
+9644,A dog is emerging from a lake,An animal is emerging from a lake,4.6,ENTAILMENT
+9653,A dog is running on the beach and chasing a ball,A dog is running on the sand and chasing a ball,4.4,ENTAILMENT
+9662,A shirtless man is escorting a horse that is pulling a carriage along a paved road,A shirtless man is escorting a horse that is pulling a carriage along a road,4.9,ENTAILMENT
+9665,A shirtless man is escorting a horse that is pulling a carriage along a dirty road,A shirtless man is leading a horse that is pulling a carriage,4.3,ENTAILMENT
+9666,A shirtless man is escorting a horse that is pulling a carriage along a paved road,A shirtless man is leading a carriage that is being pulled by a horse,4.6,ENTAILMENT
+9668,A shirtless man is escorting a horse that is pulling a carriage along a paved road,A shirtless man is leading a horse that is pulling a carriage,4.4,ENTAILMENT
+9678,A woman in an orange shirt and clown makeup is standing in a park and others are looking on,A girl in an orange shirt and clown makeup is standing in a park and others are looking on,4.3,ENTAILMENT
+9680,The girl is wearing an orange shirt and a striped tie,A girl is wearing an orange shirt and a striped tie,4.9,ENTAILMENT
+9689,A bicyclist is performing a trick over a heavily graphitized wall,A bicyclist is performing a trick over wall full of graffiti,4.8,ENTAILMENT
+9698,A woman is crouching down next to a dog and is smiling at a young girl sitting on the sidewalk,A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk,4.8,ENTAILMENT
+9709,A black and white dog is carrying a big stick on the green grass,A black and white dog with a large branch is running in the field,4.1,ENTAILMENT
+9720,A kid wearing a striped shirt is running barefoot on the sandy hill,A boy is running through the sand,3.7,ENTAILMENT
+9736,The woman is wearing ear protection and is firing a gun at an indoor shooting range,A woman is shooting at target practice,4.3,ENTAILMENT
+9738,A woman is wearing ear protection and is firing a gun at an indoor shooting range,A woman is firing at target practice,4.1,ENTAILMENT
+9749,A little boy is sticking his tongue out for the camera and another boy is looking on,Two young boys are looking up at the camera and one is sticking out his tongue,3.9,ENTAILMENT
+9752,A dog is running on concrete and is holding a blue ball,A dog is running on concrete and is holding a ball,4.7,ENTAILMENT
